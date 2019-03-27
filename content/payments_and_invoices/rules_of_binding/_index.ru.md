@@ -89,7 +89,7 @@ weight: 1
 По вопросам разнесения банковской выписки, урегулирования разногласий при закрытии счетов платежами, а также в случаях ограничений работы Сервиса, предусмотренных настоящими Правилами, необходимо обращаться в Банковскую Группу Сервисного Центра FESCO  по адресу: <b> FESCO Posting Bank Statement  <ercpostbank@fesco.com> </b>
 </div>
 <br/>
-В разделе <a href=/help/payments_and_invoices/instruction_of_binding/sample_letter/ target="_blank">”Образцы писем”</a> представлены образцы писем, которые необходимо направить на официальном бланке Вашей организации с подписью уполномоченного лица и печатью организации, в адрес Банковской Группы в следующих случаях:
+В разделе <a href="/payments_and_invoices/instruction_of_binding/sample_letter" target="_blank">”Образцы писем”</a> представлены образцы писем, которые необходимо направить на официальном бланке Вашей организации с подписью уполномоченного лица и печатью организации, в адрес Банковской Группы в следующих случаях:
 
 1.	Закрытие счета с аванса; <br/>
 2.	Уточнение назначения платежа; <br/>
@@ -106,7 +106,5 @@ weight: 1
     {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/rouble-rouble/" text="Закрытие рублевых счетов при оплате в рублях">}}
     {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-rouble/" text="Закрытие валютных счетов при оплате в рублях">}}
     {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-usd/" text="Закрытие валютных счетов при оплате в валюте">}}
-    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/sample_letter/
-" text="Образцы писем">}}
-    {{<seeAlsoItem link="/new_order/questions/" text="Кого указывать получателем на станции назначения?">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/sample_letter/" text="Образцы писем">}}
 {{</seeAlso>}}

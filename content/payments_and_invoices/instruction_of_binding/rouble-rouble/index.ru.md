@@ -64,3 +64,8 @@ weight: 1
 
 {{<isHelpful>}}
 
+{{<seeAlso>}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-rouble/" text="Закрытие валютных счетов при оплате в рублях">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-usd/" text="Закрытие валютных счетов при оплате в валюте">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/sample_letter/" text="Образцы писем">}}
+{{</seeAlso>}}
