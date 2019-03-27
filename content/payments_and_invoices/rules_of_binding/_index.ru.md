@@ -101,3 +101,12 @@ weight: 1
 Если предоставление информации о перечне счетов к закрытию оплатами в назначении платежа для автоматической обработки или использование Сервиса по закрытию счетов в Личном Кабинете Клиента, представляется Клиенту нецелесообразным, то есть возможность для перехода на закрытие счетов по FIFO по договору. В таком случае, необходимо обратится обслуживающему менеджеру CS, подписать дополнительное соглашение на закрытие счетов оплатами по FIFO и указывать в назначении платежа только информацию о договоре. <br/>
 
 {{<isHelpful>}}
+
+{{<seeAlso>}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/rouble-rouble/" text="Закрытие рублевых счетов при оплате в рублях">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-rouble/" text="Закрытие валютных счетов при оплате в рублях">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-usd/" text="Закрытие валютных счетов при оплате в валюте">}}
+    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/sample_letter/
+" text="Образцы писем">}}
+    {{<seeAlsoItem link="/new_order/questions/" text="Кого указывать получателем на станции назначения?">}}
+{{</seeAlso>}}
