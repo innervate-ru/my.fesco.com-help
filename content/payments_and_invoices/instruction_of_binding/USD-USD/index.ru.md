@@ -68,6 +68,10 @@ weight: 4
 
 {{< img name="images/10*" class="img-fluid" style="width:70%">}} 
 
+<br/>
+9) Закрытые счета будут отражены в закладке «ПРИВЯЗАННЫЕ СЧЕТА».
+
+{{< img name="images/52*" class="img-fluid" style="width:60%">}} 
 
 {{<isHelpful>}}
 
