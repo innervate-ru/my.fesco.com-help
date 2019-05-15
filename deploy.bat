@@ -9,9 +9,9 @@ git add .
 git commit -m "update"
 git push origin master
 
-grunt search-index
+call grunt search-index
 
-hugo -d ./docs
+call hugo -d ./docs
 
 git add .
 git commit -m "update"
