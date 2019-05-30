@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://my.fesco.com/en/access/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://my.fesco.com/en/access/new_client/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/new_client/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/new_client/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://my.fesco.com/en/access/request/</loc>
+    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/request/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/en/all_orders/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
     <xhtml:link

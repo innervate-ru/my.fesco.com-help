@@ -123,6 +123,21 @@
   </url>
   
   <url>
+    <loc>https://my.fesco.com/access/request/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/request/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/payments_and_invoices/rules_of_binding/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -378,6 +393,21 @@
   </url>
   
   <url>
+    <loc>https://my.fesco.com/access/new_client/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/new_client/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/new_client/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/all_orders/errors/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -524,6 +554,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://my.fesco.com/payments_and_invoices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://my.fesco.com/access/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/access/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/access/"
                 />
   </url>
   

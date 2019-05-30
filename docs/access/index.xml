@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Мои доступы on Fesco Help</title>
+    <link>https://my.fesco.com/access/</link>
+    <description>Recent content in Мои доступы on Fesco Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://my.fesco.com/access/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Отправка запроса на доступ</title>
+      <link>https://my.fesco.com/access/request/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/access/request/</guid>
+      <description>В разделе Мои доступы вы можете подать запросы на доступы к различных разделам личного кабинета, а так же отслеживать процесс получения доступов.  Заполнение формы запроса на доступ а) Заполнение формы: 
+— Перейдите к форме, используя меню с разделами, выберите нужное вам юр.лицо из списка.
+  — Заполните форму вашими данными (часть данных может быть автоматически заполнена заранее):
+ Поле “Ваше юрлицо” - выберите из выпадающего списка нужное вам юр.</description>
+    </item>
+    
+    <item>
+      <title>Добавление нового юр.лица</title>
+      <link>https://my.fesco.com/access/new_client/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/access/new_client/</guid>
+      <description>— Войдите в подраздел “Добавить новое юрлицо”;
+  
+— Введите ИНН юрлица;  
+— Нажмите кнопку “Найти”. В случае, если в системе будет найдено несколько компаний с одинаковым ИНН, вы увидите соответствующее сервисное сообщение. После этого нужно: Заполнить КПП и повторно нажать кнопку “Найти”.
+ После успешного заполнения формы, компания будет добавлена в ваш список как временная, и вы можете отправлять запрос на доступ, для той или иной компании ГК ФЕСКО.</description>
+    </item>
+    
+  </channel>
+</rss>
