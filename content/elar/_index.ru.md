@@ -31,12 +31,13 @@ menuIcon: archive
 
 Чтобы открыть фильтр, нажмите на стрелку слева:
 
-{{< gif name="screencast4*" class="img-fluid" style="width:90%">}}
+{{< img name="3*" class="img-fluid" style="width:90%">}}
 
 <br/>
 Выберите параметры, прокрутите вниз и нажмите кнопку “Найти”.
 
-{{< gif name="screencast12-min*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
+{{< img name="4*" class="img-fluid" style="width:90%">}} 
+
 
 <br/>
 В поле “Тип документов” вы можете выбрать несколько типов документов:

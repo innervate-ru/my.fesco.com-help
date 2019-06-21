@@ -12,7 +12,7 @@ weight: 2
 
 а) **Зайдите в раздел** <a href="https://my.fesco.com/archive/duplicate-documents-requests" target="_blank">Запросы дубликатов документов </a> и нажмите на кнопку "Новый запрос" или оранжевый "плюсик" .
 
-{{< img name="images/13*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
+{{< img name="images/14*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
 
 <br/>
 б) **Заполните форму** в блоке "Данные для получения акта".
