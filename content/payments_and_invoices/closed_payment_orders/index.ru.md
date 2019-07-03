@@ -6,7 +6,7 @@ tags: ["api", "метод"]
 Description: ""
 type: help_doc
 layout: help_doc
-weight: 1
+weight: 5
 ---
 
 #### Как посмотреть какими счетами была закрыта платежка
