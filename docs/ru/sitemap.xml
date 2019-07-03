@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://my.fesco.com/payments_and_invoices/closed_payment_orders/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/payments_and_invoices/closed_payment_orders/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/payments_and_invoices/instruction_of_binding/rouble-rouble/</loc>
     <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -649,7 +664,7 @@
   
   <url>
     <loc>https://my.fesco.com/tags/api/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -665,7 +680,7 @@
   
   <url>
     <loc>https://my.fesco.com/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -681,7 +696,7 @@
   
   <url>
     <loc>https://my.fesco.com/tags/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -697,7 +712,7 @@
   
   <url>
     <loc>https://my.fesco.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -603,6 +603,21 @@
   </url>
   
   <url>
+    <loc>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</loc>
+    <lastmod>2018-03-29T21:54:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/payments_and_invoices/closed_payment_orders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/en/payments_and_invoices/rules_of_binding/</loc>
     <lastmod>2018-03-29T21:54:53-05:00</lastmod>
     <xhtml:link

@@ -201,6 +201,15 @@
     
     <item>
       <title>Test3</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
+      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</guid>
+      <description> test3 </description>
+    </item>
+    
+    <item>
+      <title>Test3</title>
       <link>https://my.fesco.com/en/registration/instruction/</link>
       <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
       

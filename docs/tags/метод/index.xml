@@ -5,10 +5,24 @@
     <link>https://my.fesco.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/</link>
     <description>Recent content in Метод on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://my.fesco.com/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Просмотр уже закрытых платежек</title>
+      <link>https://my.fesco.com/payments_and_invoices/closed_payment_orders/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/payments_and_invoices/closed_payment_orders/</guid>
+      <description>Как посмотреть какими счетами была закрыта платежка Чтобы посмотреть какими счетами были закрыты платежки, необходимо
+ В блоке &amp;ldquo;Непривязанные платежи&amp;rdquo; (в левой части экрана) выбрать платеж, чью детализацию мы хотим посмотреть:  
+ Нажать на вкладку &amp;ldquo;Привязанные платежи&amp;rdquo; (в правой части экрана):
+    
+Далее (в правой части экрана) мы увидим таблицу со всей информации по платежу:
+ Дата, сумма, валюта, номер счета, которым закрыта платежка;  Дата, сумма, валюта, номер платежа;  Номер договора.</description>
+    </item>
     
     <item>
       <title>RUB счет - RUB оплата</title>
