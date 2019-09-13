@@ -1,7 +1,7 @@
 ---
 date: "2018-10-31"
 title: "Как зарегистрироваться в личном кабинете"
-titleEn: "test3"
+titleEn: "How to register an account"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

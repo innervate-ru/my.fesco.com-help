@@ -1,12 +1,21 @@
 ---
-Categories: []
+date: "2018-11-13"
+title: "Расписание"
+titleEn: "Schedule"
+tags: ["api", "метод"]
 Description: ""
-Tags: []
-date: "2014-09-29T21:54:53-05:00"
-title: "Config"
-weight: 11
-
+type: help_doc
+layout: help_doc
+weight: 9
+menuIcon: calendar
 ---
 
-### Config
+To see the timetable:
 
+* Go to  <a href="https://www.fesco.ru/clients/schedule/ship_and_train_schedule/" target="_blank">“schedule of the services”</a> ; 
+* Enter necessary information;
+* Press “find a schedule”.
+
+{{< img name="5*" class="img-fluid" style="width:70%">}}
+
+{{<isHelpful>}}

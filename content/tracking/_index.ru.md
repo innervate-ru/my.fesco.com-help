@@ -1,7 +1,7 @@
 ---
 date: "2018-11-12"
 title: "Отслеживание груза"
-titleEn: "test3"
+titleEn: "Tracking the cargo"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
@@ -10,25 +10,26 @@ weight: 3
 menuIcon: location-arrow
 ---
 
-Для того, чтобы получить информацию по перевозке, перейдите в <a href="https://my.fesco.com/requests?active" target="_blank">список заявок</a> и нажмите кнопку “Открыть” у нужной заявки:
+To get the information on the shipment please go to <a href="https://my.fesco.com/requests?active" target="_blank">your requests list</a> and press open the request you need where you need to track the cargo:
 
 {{< img name="1*" style="width:82%">}}
 <br/>
-Информация, которую вы найдете на детальной странице заявки: 
+Information you will find on the detailed page of the request: 
 
-* Местонахождение контейнера и события (например, получение TLX-RELEASE от отправителя);
-* Информация о проведенном досмотре, взвешивании и МИДК;
-* Таможенные документы и таможенная декларация;
-* Счета, акты и коносаменты;
-* ЖД-накладные.
+* Container’s location and performed operations (for example, receiving TLX-RELEASE from the shipper);
+* Information on performed inspections, weight measuring and x-ray inspection;
+* Customs documents and declaration;
+* Invoices, certificates and B/Ls ;
+* Railway B/Ls.
 
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/tracking/where_container/" target="_blank" text="Где мой контейнер?">}}
-    {{<seeAlsoItem link="/tracking/customs_events/" text="Досмотр, взвешивание и МИДК">}}
-    {{<seeAlsoItem link="/tracking/customs_documents/" text="Таможенные документы">}}
-    {{<seeAlsoItem link="/tracking/custom_declaration/" target="_blank" text="Таможенная декларация">}}
-    {{<seeAlsoItem link="/tracking/invoices-and-acts/" text="Счета, акты и коносаменты">}}
-    {{<seeAlsoItem link="/tracking/railway_bills/" text="ЖД накладные">}}    
+    {{<seeAlsoItem link="/tracking/where_container/" target="_blank" text="Where is my container?">}}
+    {{<seeAlsoItem link="/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
+    {{<seeAlsoItem link="/tracking/customs_documents/" text="Customs documents">}}
+    {{<seeAlsoItem link="/tracking/custom_declaration/" target="_blank" text="Customs declaration">}}
+    {{<seeAlsoItem link="/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
+    {{<seeAlsoItem link="/tracking/railway_bills/" text="Railway B/Ls">}}    
 {{</seeAlso>}}
+

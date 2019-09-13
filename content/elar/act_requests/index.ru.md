@@ -1,7 +1,7 @@
 ---
 date: "2018-11-13"
 title: "Запрос акта сверки"
-titleEn: "test3"
+titleEn: "Request reconciliation reports"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

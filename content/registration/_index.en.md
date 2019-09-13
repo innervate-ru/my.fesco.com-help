@@ -1,13 +1,19 @@
 ---
-Categories: []
+date: "2018-10-31"
+title: "Регистрация"
+titleEn: "Registration"
+tags: ["api", "метод"]
 Description: ""
-Tags: []
-date: "2014-09-29T21:54:53-05:00"
-title: "Registration"
-weight: 10
 type: help_doc
 layout: help_doc
+weight: 1
+menuIcon: user
+redirect: "/en/registration/nstruction/"
 ---
+
+[How to register an account](/en/registration/instruction/)
+
+[FAQ](/en/registration/questions/)
 
 
 
