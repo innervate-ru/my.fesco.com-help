@@ -1,13 +1,15 @@
 ---
-Categories: []
+date: "2019-05-30"
+title: "Мои доступы"
+titleEn: "test3"
 Description: ""
-Tags: []
-date: "2014-09-29T21:54:53-05:00"
-title: "Registration"
-weight: 10
 type: help_doc
 layout: help_doc
+weight: 9
+menuIcon: unlock-alt
+redirect: "/en/access/request/"
 ---
+
 
 
 

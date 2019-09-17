@@ -1,7 +1,7 @@
 ---
-date: "2018-10-31"
+date: "2018-09-17"
 title: "Копирование из старой заявки"
-titleEn: "Copy from the previous request
+titleEn: "Request from the Calculator menu"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
@@ -23,7 +23,7 @@ weight: 3
 
 
 <div class="pixxett-alert pixxett-alert-icon alert8-light">
-  <i class="fa fa-envelope"></i>ПAfter sending the request you will get a notification with all the request details on your email. <br/> You can continue the correspondence by sending a REPLY to the message.
+  <i class="fa fa-envelope"></i>After sending the request you will get a notification with all the request details on your email. <br/> You can continue the correspondence by sending a REPLY to the message.
 </div>
 
 <br/>

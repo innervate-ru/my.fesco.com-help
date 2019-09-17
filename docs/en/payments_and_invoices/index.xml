@@ -11,12 +11,16 @@
     
     
     <item>
-      <title>Test3</title>
+      <title>Просмотр уже закрытых платежек</title>
       <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
-      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</guid>
-      <description> test3 </description>
+      <description>View what invoices were used to cover the receipt.  In “unbound payments” block (on the left) select the payment for detalization:  
+ Go to “bound payments” (on the right):
+    
+Then you will see a table with all the information on the right:
+ Date, amount, invoice number ;  Date, amount, payment number;  Contract number   Use horizontal scroll to view the information in the table.</description>
     </item>
     
   </channel>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fesco Help</title>
-    <link>https://my.fesco.com/en/</link>
-    <description>Recent content on Fesco Help</description>
+    <title>Метод on Fesco Help</title>
+    <link>https://my.fesco.com/en/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/</link>
+    <description>Recent content in Метод on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://my.fesco.com/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://my.fesco.com/en/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,6 +35,39 @@
     </item>
     
     <item>
+      <title>Онлайн-заявка</title>
+      <link>https://my.fesco.com/en/new_order/online_order/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/online_order/</guid>
+      <description>To make a request:   Through
+“new request” form    From the
+Calculator menu    From a previous
+request (copy)    From template   
+  Online application/request doesn’t need to be copied in written form. Online request is an official request for transportation.</description>
+    </item>
+    
+    <item>
+      <title>Регистрация</title>
+      <link>https://my.fesco.com/en/registration/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/registration/</guid>
+      <description>How to register an account
+FAQ</description>
+    </item>
+    
+    <item>
+      <title>Загрузка и отправка документов</title>
+      <link>https://my.fesco.com/en/customs_documents/download_and_send/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/download_and_send/</guid>
+      <description>How to upload and send the documents: а) go to ”Customs Declaration”;  б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
+    в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
+    </item>
+    
+    <item>
       <title>Черновики и шаблоны</title>
       <link>https://my.fesco.com/en/all_orders/templates_and_drafts/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
@@ -54,6 +87,15 @@
 — Find the form using the sections menu, select the legal entity from the list.
   — Fill in the form with your details (the form may be partly filled in automatically):
  “Legal entity” field  - select the legal entity from the list; “Company of FESCO Group” field  - select one of the companies of FESCO Group; “Name of the signatory” field  - enter the signatory’s full name ; “Acting upon” field  - indicate the grounds; “Name of the party authorized by the Client to work with documents”  – enter the full name of the authorized party; “E-mail address of the party authorized by the Client to work with documents”  – enter an e-mail address of the authorized party; “Mobile phone of the party authorized by the Client to work with documents”  – enter a mobile phone of the authorized party  — Tick the box “I agree to the processing of my personal data”</description>
+    </item>
+    
+    <item>
+      <title>Правила привязки платежей</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/rules_of_binding/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/rules_of_binding/</guid>
+      <description>Automatic posting Invoices are processed and closed automatically based on the information indicated by the client in details of payment such as: contract, account number (indicating amount is optional). ). If the amount isn’t indicated, the invoice will be fully covered.   Examples of the information for indication in the details of payment for automatic processing are given below:   Example 1 (several invoices)::  Payment for logistics service, contract reference number № OME-15 /171 dated 15.</description>
     </item>
     
     <item>
@@ -122,6 +164,16 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
+      <title>Дозагрузка документов</title>
+      <link>https://my.fesco.com/en/customs_documents/reloading/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/reloading/</guid>
+      <description>To additionally upload and submit documents а) Go to ”Customs Declaration” and find your request;  б) Press “Additional documents upload”  The documents will be dismissed. After that you will be able to upload and submit the documents again.
+   Additional uploading isn’t available for the documents in the following statuses:.  — container sent  — transit procedure finished  — documents were submitted to the Federal Customs Service of Russia</description>
+    </item>
+    
+    <item>
       <title>Новая заявка из шаблона</title>
       <link>https://my.fesco.com/en/new_order/online_order/templates/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -143,6 +195,17 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
   
 в) Fill in the fields; fields marked with * are mandatory; and press “submit the request”.
 ПAfter sending the request you will get a notification with all the request details on your email.  You can continue the correspondence by sending a REPLY to the message.</description>
+    </item>
+    
+    <item>
+      <title>Образцы писем</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/sample_letter/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/sample_letter/</guid>
+      <description>Example of a letter for closing
+Example of a letter for clarification of the payment for a payment order
+Example of a letter for partially closing</description>
     </item>
     
     <item>
@@ -170,6 +233,26 @@ Error cause: probably you don’t have an additional agreement for working with 
     </item>
     
     <item>
+      <title>Загрузка документов</title>
+      <link>https://my.fesco.com/en/customs_documents/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/</guid>
+      <description>Customs declaration menu allows to upload and send the documents for preliminary customs declaring procedure and control the terms of issuing documents.  
+List of required documents for Clearance procedure for transit:  Invoice (proforma invoice) Packing list B/L Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement son the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).</description>
+    </item>
+    
+    <item>
+      <title>Статусы документов</title>
+      <link>https://my.fesco.com/en/customs_documents/statuses/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/statuses/</guid>
+      <description>Statuses of the customs clearance documents can be the following: 
+ Collecting the documents — the request is ready for collecting the documents;  Sent to the broker  — the documents were sent to the broker; Received by broker  — the documents were received by the broker; Checked by broker  — the documents were checked by the broker; Dismissed for editing  — the documents were dismissed by the clients for editing; Submitted to the Federal Customs Service of Russia /b&amp;gt; — пthe documents were submitted to the Federal Customs Service of Russia; Clearance procedure for transit is performed  — the transit was performed; the documents were assigned a transit declaration number.</description>
+    </item>
+    
+    <item>
       <title>Просмотр уже закрытых платежек</title>
       <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
@@ -180,17 +263,6 @@ Error cause: probably you don’t have an additional agreement for working with 
     
 Then you will see a table with all the information on the right:
  Date, amount, invoice number ;  Date, amount, payment number;  Contract number   Use horizontal scroll to view the information in the table.</description>
-    </item>
-    
-    <item>
-      <title>Счета/акты/коносаменты</title>
-      <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
-      <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Railway B/Ls    </description>
     </item>
     
     <item>
@@ -205,6 +277,37 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
+      <title>Счета/акты/коносаменты</title>
+      <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
+      <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
+ Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Railway B/Ls    </description>
+    </item>
+    
+    <item>
+      <title>Расписание</title>
+      <link>https://my.fesco.com/en/schedule/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/schedule/</guid>
+      <description>To see the timetable:
+ Go to “schedule of the services” ; Enter necessary information; Press “find a schedule”.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     </description>
+    </item>
+    
+    <item>
+      <title>Электронный архив</title>
+      <link>https://my.fesco.com/en/elar/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/elar/</guid>
+      <description>In this menu you can find all the closing documents of your shipments, download them in archive, and send requests for reconciliation reports and copies of the documents.  Documents list: To see the closing documents on your shipments, go to Electronic archive .
+To download a single document, press the icon in column “Document (1)”.  To download all the documents on your shipment, press the icon “download documents’ package” (2).</description>
+    </item>
+    
+    <item>
       <title>Как зарегистрироваться в личном кабинете</title>
       <link>https://my.fesco.com/en/registration/instruction/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
@@ -215,48 +318,14 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     </item>
     
     <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <title>Популярные вопросы</title>
+      <link>https://my.fesco.com/en/new_order/questions/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/custom_declaration/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/where_container/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://my.fesco.com/en/elar/act_requests/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
-      <description> Config </description>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://my.fesco.com/en/elar/archive_zip/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
-      <description> Config </description>
+      <guid>https://my.fesco.com/en/new_order/questions/</guid>
+      <description>How to add one more cargo to the request?  In GNG CODE field enter the code for collected cargoes: 99020000 In “additional requirements” field indicate detailed information for the cargoes.    Where is the information about door delivery? 
+In “additional requirements” field.    Who can I indicate as a consignee at the destination station? 
+In case of FESCO removal, &amp;ldquo;FIT agent&amp;rdquo; is indicated.</description>
     </item>
     
     <item>

@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registration on Fesco Help</title>
+    <title>Регистрация on Fesco Help</title>
     <link>https://my.fesco.com/en/registration/</link>
-    <description>Recent content in Registration on Fesco Help</description>
+    <description>Recent content in Регистрация on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://my.fesco.com/en/registration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test3</title>
+      <title>Как зарегистрироваться в личном кабинете</title>
       <link>https://my.fesco.com/en/registration/instruction/</link>
-      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/registration/instruction/</guid>
-      <description> test3 </description>
+      <description>• Access and complete the registration form;  • Wait for the confirmation code in SMS from FESCO to your mobile number;  • Enter the confirmation code in the registration form;  • Log-in password will be sent to your e-mail and phone number. 
+INN (taxpayer identification number) number and e-mail entered during the registration will be used for accessing the system and sending notifications from your account for making requests and for other operations.</description>
     </item>
     
     <item>
-      <title>Test3</title>
+      <title>Популярные вопросы</title>
       <link>https://my.fesco.com/en/registration/questions/</link>
-      <pubDate>Thu, 29 Mar 2018 21:54:53 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/registration/questions/</guid>
-      <description> test3 </description>
+      <description>If you didn&amp;#39;t receive a password on your e-mail   Check spam and low-priority folders. Message us in the chat on our web-site.   What is a full and limited access to the account?  After registration you will get a limited access to your account.  You can use the following functions:    Public access Limited access Full access     The calculator of shipment price         Filing requests for quotations         Filing requests for transportations         Saving drafts order         Copy orders         Container tracking and shipment status         Downloading and checking status of the customs documents         Entering the data on VGM         Contacts and bills         Chat with a manager</description>
     </item>
     
   </channel>

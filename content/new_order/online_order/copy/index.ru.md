@@ -1,7 +1,7 @@
 ---
 date: "2018-10-31"
 title: "Копирование из старой заявки"
-titleEn: "test3"
+titleEn: "Request from the Calculator menu"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
@@ -16,7 +16,7 @@ weight: 3
 а) Зайдите в <a href="https://my.fesco.com/requests" target="_blank">“Список заявок”</a>; <br/>
 б) Найдите старую заявку и нажмите кнопку “Повторить”;
 
-{{< gif name="images/screencast1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
+{{< gif name="images/screencast1*" class="img-fluid" style="width:90%">}}
 <br/>
 
 в) Заполните поля, * помечены поля обязательные к заполнению, и нажмите на кнопку “Подать заявку”.
@@ -37,3 +37,4 @@ weight: 3
     {{<seeAlsoItem link="/new_order/questions/" text="Как добавить еще один груз в заявку?">}}
     {{<seeAlsoItem link="/new_order/questions/" text="Кого указывать получателем на станции назначения?">}}
 {{</seeAlso>}}
+

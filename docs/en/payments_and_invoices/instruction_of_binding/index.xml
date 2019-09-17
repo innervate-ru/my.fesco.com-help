@@ -11,29 +11,33 @@
     
     
     <item>
+      <title>RUB счет - RUB оплата</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</guid>
+      <description>Instructions on closing ruble invoices with ruble payments If the issued invoice is in rubles and the payment was made in rubles:
+ In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).    
+ payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+    </item>
+    
+    <item>
+      <title>USD счет - RUB оплата</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</guid>
+      <description>Instruction for closing foreign currency invoices with payments in rubles If the invoice was issued in foreign currency, and you made payments in rubles:
+ Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)    
+ payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+    </item>
+    
+    <item>
       <title>Registration</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</guid>
       <description></description>
     </item>
     

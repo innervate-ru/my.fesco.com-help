@@ -11,38 +11,44 @@
     
     
     <item>
+      <title>Досмотр, взвешивание и МИДК</title>
+      <link>https://my.fesco.com/en/tracking/customs_events/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/customs_events/</guid>
+      <description>On the detailed page of the request in “Customs procedures” block you can find the information on the following customs procedures:
+ inspection; measuring weight; x-ray inspection system.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
+ Where is my container?   Customs documents   Customs declaration   Invoices, certificates and B/Ls    Railway B/Ls    </description>
+    </item>
+    
+    <item>
+      <title>Счета/акты/коносаменты</title>
+      <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
+      <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
+ Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Railway B/Ls    </description>
+    </item>
+    
+    <item>
+      <title>ЖД накладные</title>
+      <link>https://my.fesco.com/en/tracking/railway_bills/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
+      <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
+ Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
+    </item>
+    
+    <item>
       <title>Registration</title>
       <link>https://my.fesco.com/en/tracking/custom_declaration/</link>
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
       <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/customs_events/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/customs_events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/railway_bills/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
       <description></description>
     </item>
     

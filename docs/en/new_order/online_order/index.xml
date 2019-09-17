@@ -1,49 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registration on Fesco Help</title>
+    <title>Онлайн-заявка on Fesco Help</title>
     <link>https://my.fesco.com/en/new_order/online_order/</link>
-    <description>Recent content in Registration on Fesco Help</description>
+    <description>Recent content in Онлайн-заявка on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://my.fesco.com/en/new_order/online_order/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/new_order/online_order/copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/new_order/online_order/from_calculator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
+      <title>Новая заявка через форму</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/from_new_order/</guid>
-      <description></description>
+      <description>а) Go to “my requests” page and press the orange button “new request”;  б) Choose the type of the request – New request;
+  
+в) Select the initial entries:
+ Planned date of shipment, Route, Container type, Container’s owner;    
+г) Choose the Rate, for selecting the rate press “select price”; you can filter the price rates by the Destination, Customs clearance location or Currency; then press “select the rate”</description>
     </item>
     
     <item>
-      <title>Registration</title>
+      <title>Новая заявка из калькулятора</title>
+      <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/online_order/from_calculator/</guid>
+      <description>а) Go to “Calculator”;  б) Select initial entries:
+ planned date of shipment, route, container type, container’s owner,  and press “calculate the price”;
+  
+в) select the rate and press “submit the request”    You can filter the rates by Destination, Customs clearance place and Currency 
+  г) fill in the fields; fields marked with * are mandatory; and press “submit the request”.</description>
+    </item>
+    
+    <item>
+      <title>Новая заявка из шаблона</title>
       <link>https://my.fesco.com/en/new_order/online_order/templates/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/templates/</guid>
-      <description></description>
+      <description>Use this feature for your repeating requests with the same details.  Шаг 1. To make an old request as a template:
+ go to “list ot requests” change to Tablet layout press “add” make a tag “template” and press Enter or select the tag from the list.    
+Шаг 2. To create a request based on a template:
+ press “new request” button and select “from the template” find the request and press “submit again” fill in the fields, fields marked with * are mandatory; and press “submit the request”.</description>
+    </item>
+    
+    <item>
+      <title>Копирование из старой заявки</title>
+      <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/online_order/copy/</guid>
+      <description>Use this feature if you want to make a new request using the previously entered info.  а) Go to “List of requests”;  б) Find a previous request and press “repeat”;
+  
+в) Fill in the fields; fields marked with * are mandatory; and press “submit the request”.
+ПAfter sending the request you will get a notification with all the request details on your email.  You can continue the correspondence by sending a REPLY to the message.</description>
     </item>
     
   </channel>

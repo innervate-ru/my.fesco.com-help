@@ -11,30 +11,35 @@
     
     
     <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/all_orders/errors/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/all_orders/errors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/all_orders/tagging/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/all_orders/tagging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
+      <title>Черновики и шаблоны</title>
       <link>https://my.fesco.com/en/all_orders/templates_and_drafts/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/all_orders/templates_and_drafts/</guid>
-      <description></description>
+      <description>What is a draft?  Draft is a saved but not submitted request.  To save your draft press “save” instead of “submit the request” on new request page.
+ What is a template?  Template is a request market with “template” tag. You can create a new request using a template.  Templates are connected to companies, not to users, therefore, one company’s users see the same templates.</description>
+    </item>
+    
+    <item>
+      <title>Тегирование</title>
+      <link>https://my.fesco.com/en/all_orders/tagging/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/all_orders/tagging/</guid>
+      <description>Tags allow you to find a requst among other requests.  To tag or to create a new tag:  Go to “My requests”  Change a layout to Table Press “add” in the “tags” field Enter a new tag name and press Enter, or choose a tag from the list.      Tag is set!  
+To find a request by the tag:  Go to “My requests”  Select tag’s name in the list Press “Search”      The requests were filtered by the tag.</description>
+    </item>
+    
+    <item>
+      <title>Ошибки заявок</title>
+      <link>https://my.fesco.com/en/all_orders/errors/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/all_orders/errors/</guid>
+      <description>In your account you can see several types of errors:    Your request validity has expired. 
+Error cause: the quote has expired. What to do: set a new date for “planned shipment date”, after that select new quote by pressing “select price”. 
+  No contract made for this type of shipment:
+Error cause: probably you don’t have an additional agreement for working with electronic requests in your account.</description>
     </item>
     
   </channel>
