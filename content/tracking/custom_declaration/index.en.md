@@ -1,13 +1,27 @@
 ---
-Categories: []
+date: "2018-12-11"
+title: "Customs declaration "
+tags: ["api", "метод"]
 Description: ""
-Tags: []
-date: "2014-09-29T21:54:53-05:00"
-title: "Registration"
-weight: 10
 type: help_doc
 layout: help_doc
+weight: 4
 ---
 
+When the customs declaration is generated, it will appear on the detailed pade of the request in your account. <br/> To access, download and copy the information in the declaration, press “Open”. 
 
+{{< img name="images/1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+<br/>
+Then press “download PDF”.
 
+{{< img name="images/2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+
+{{<isHelpful>}}
+
+{{<seeAlso>}}
+    {{<seeAlsoItem link="/tracking/where_container/" target="_blank" text="Where is my container?">}}
+    {{<seeAlsoItem link="/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
+    {{<seeAlsoItem link="/tracking/customs_documents/" text="Customs documents">}}
+    {{<seeAlsoItem link="/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
+    {{<seeAlsoItem link="/tracking/railway_bills/" text="Railway B/Ls">}}    
+{{</seeAlso>}}
