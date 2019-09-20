@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Онлайн-заявка on Fesco Help</title>
+    <title>Online request on Fesco Help</title>
     <link>https://my.fesco.com/en/new_order/online_order/</link>
-    <description>Recent content in Онлайн-заявка on Fesco Help</description>
+    <description>Recent content in Online request on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Новая заявка через форму</title>
+      <title>New request form</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -24,7 +24,7 @@
     </item>
     
     <item>
-      <title>Новая заявка из калькулятора</title>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Новая заявка из шаблона</title>
+      <title>New request from template</title>
       <link>https://my.fesco.com/en/new_order/online_order/templates/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>Копирование из старой заявки</title>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       

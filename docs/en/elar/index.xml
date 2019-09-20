@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Электронный архив on Fesco Help</title>
+    <title>Electronic archive on Fesco Help</title>
     <link>https://my.fesco.com/en/elar/</link>
-    <description>Recent content in Электронный архив on Fesco Help</description>
+    <description>Recent content in Electronic archive on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
     
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Запрос дубликатов документов</title>
+      <title>Request copies of documents </title>
       <link>https://my.fesco.com/en/elar/duplicated_documents_requests/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -33,12 +33,16 @@
     </item>
     
     <item>
-      <title>Config</title>
+      <title>Download the documents in archive file</title>
       <link>https://my.fesco.com/en/elar/archive_zip/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
-      <description> Config </description>
+      <description>To download the documents in archive file:
+а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
+  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+  The archive file will be downloaded to your computer.
+Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
     </item>
     
   </channel>

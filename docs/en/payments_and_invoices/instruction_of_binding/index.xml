@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registration on Fesco Help</title>
+    <title>Rules for payment binding on Fesco Help</title>
     <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</link>
-    <description>Recent content in Registration on Fesco Help</description>
+    <description>Recent content in Rules for payment binding on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>RUB счет - RUB оплата</title>
+      <title>RUB invoice – RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>USD счет - RUB оплата</title>
+      <title>USD invoice - RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -33,12 +33,13 @@
     </item>
     
     <item>
-      <title>Registration</title>
+      <title>USD invoice - USD payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
-      <description></description>
+      <description>Instructions for paying off foreign currency invoices with foreign currency payments. If the invoice was issued in foreign currency (not RUB), and the payment was made in the same foreign currency:
+ Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
     </item>
     
   </channel>

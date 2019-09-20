@@ -220,9 +220,9 @@
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/tracking/</guid>
-      <description>To get the information on the shipment please go to your requests list and press open the request you need where you need to track the cargo:
-   Information you will find on the detailed page of the request:
- Container’s location and performed operations (for example, receiving TLX-RELEASE from the shipper); Information on performed inspections, weight measuring and x-ray inspection; Customs documents and declaration; Invoices, certificates and B/Ls ; Railway B/Ls.</description>
+      <description>Для того, чтобы получить информацию по перевозке, перейдите в список заявок и нажмите кнопку “Открыть” у нужной заявки:
+   Информация, которую вы найдете на детальной странице заявки:
+ Местонахождение контейнера и события (например, получение TLX-RELEASE от отправителя); Информация о проведенном досмотре, взвешивании и МИДК; Таможенные документы и таможенная декларация; Счета, акты и коносаменты; ЖД-накладные.  Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
     </item>
     
     <item>
@@ -389,7 +389,7 @@
     </item>
     
     <item>
-      <title>View the RECEIPTS</title>
+      <title>Просмотр уже закрытых платежек</title>
       <link>https://my.fesco.com/payments_and_invoices/closed_payment_orders/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       

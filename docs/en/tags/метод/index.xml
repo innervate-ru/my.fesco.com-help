@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>RUB счет - RUB оплата</title>
+      <title>RUB invoice – RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>Новая заявка через форму</title>
+      <title>New request form</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -46,7 +46,7 @@
     </item>
     
     <item>
-      <title>Онлайн-заявка</title>
+      <title>Online request</title>
       <link>https://my.fesco.com/en/new_order/online_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -59,7 +59,7 @@ request (copy)    From template
     </item>
     
     <item>
-      <title>Регистрация</title>
+      <title>Registration</title>
       <link>https://my.fesco.com/en/registration/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -69,17 +69,7 @@ FAQ</description>
     </item>
     
     <item>
-      <title>Загрузка и отправка документов</title>
-      <link>https://my.fesco.com/en/customs_documents/download_and_send/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/customs_documents/download_and_send/</guid>
-      <description>How to upload and send the documents: а) go to ”Customs Declaration”;  б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
-    в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
-    </item>
-    
-    <item>
-      <title>Черновики и шаблоны</title>
+      <title>Drafts and templates</title>
       <link>https://my.fesco.com/en/all_orders/templates_and_drafts/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -89,7 +79,31 @@ FAQ</description>
     </item>
     
     <item>
-      <title>Отправка запроса на доступ</title>
+      <title>Uploading and submitting the documents</title>
+      <link>https://my.fesco.com/en/customs_documents/download_and_send/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/download_and_send/</guid>
+      <description>How to upload and send the documents: а) go to ”Customs Declaration”;  б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
+    в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
+    </item>
+    
+    <item>
+      <title>Where is my container?</title>
+      <link>https://my.fesco.com/en/tracking/where_container/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
+      <description>Step 1. To find out where your container is:
+— go to the tracking page;
+   — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
+
+Step 2. To find out more information about the shipment, go to a detailed page in your account.
+In “container’s voyage” block you can see all the information regarding the shipment’s activities and location.</description>
+    </item>
+    
+    <item>
+      <title>Access Request</title>
       <link>https://my.fesco.com/en/access/request/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
@@ -101,7 +115,7 @@ FAQ</description>
     </item>
     
     <item>
-      <title>Правила привязки платежей</title>
+      <title>Rules for payment binding</title>
       <link>https://my.fesco.com/en/payments_and_invoices/rules_of_binding/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
@@ -110,7 +124,7 @@ FAQ</description>
     </item>
     
     <item>
-      <title>USD счет - RUB оплата</title>
+      <title>USD invoice - RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -121,7 +135,7 @@ FAQ</description>
     </item>
     
     <item>
-      <title>Досмотр, взвешивание и МИДК</title>
+      <title>Inspection, weight measuring and x-ray inspection</title>
       <link>https://my.fesco.com/en/tracking/customs_events/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -132,7 +146,7 @@ FAQ</description>
     </item>
     
     <item>
-      <title>Тегирование</title>
+      <title>Using tags</title>
       <link>https://my.fesco.com/en/all_orders/tagging/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -142,7 +156,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Запрос дубликатов документов</title>
+      <title>Request copies of documents </title>
       <link>https://my.fesco.com/en/elar/duplicated_documents_requests/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -153,16 +167,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Как заполнять поля заявки</title>
-      <link>https://my.fesco.com/en/new_order/fields/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/new_order/fields/</guid>
-      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
-    </item>
-    
-    <item>
-      <title>Новая заявка из калькулятора</title>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -175,7 +180,16 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Дозагрузка документов</title>
+      <title>Как заполнять поля заявки</title>
+      <link>https://my.fesco.com/en/new_order/fields/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/fields/</guid>
+      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
+    </item>
+    
+    <item>
+      <title>Additional documents uploading</title>
       <link>https://my.fesco.com/en/customs_documents/reloading/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -185,7 +199,27 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Новая заявка из шаблона</title>
+      <title>Rules for payment binding</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the cargo</title>
+      <link>https://my.fesco.com/en/tracking/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/</guid>
+      <description>To get the information on the shipment please go to your requests list and press open the request you need where you need to track the cargo:
+   Information you will find on the detailed page of the request:
+ Container’s location and performed operations (for example, receiving TLX-RELEASE from the shipper); Information on performed inspections, weight measuring and x-ray inspection; Customs documents and declaration; Invoices, certificates and B/Ls ; Railway B/Ls.</description>
+    </item>
+    
+    <item>
+      <title>New request from template</title>
       <link>https://my.fesco.com/en/new_order/online_order/templates/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -211,7 +245,18 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Копирование из старой заявки</title>
+      <title>Customs documents</title>
+      <link>https://my.fesco.com/en/tracking/customs_documents/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/customs_documents/</guid>
+      <description>On the detailed page of your request in “customs declaring procedure” block you can upload customs documents.
+ Обязательные документы: 
+ Invoice (proforma invoice); Packing list; Bill of lading; Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement on the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).</description>
+    </item>
+    
+    <item>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -223,7 +268,7 @@ After sending the request you will get a notification with all the request detai
     </item>
     
     <item>
-      <title>Образцы писем</title>
+      <title>Examples of letters</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/sample_letter/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -234,7 +279,17 @@ Example of a letter for partially closing</description>
     </item>
     
     <item>
-      <title>Добавление нового юр.лица</title>
+      <title>USD invoice - USD payment</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
+      <description>Instructions for paying off foreign currency invoices with foreign currency payments. If the invoice was issued in foreign currency (not RUB), and the payment was made in the same foreign currency:
+ Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
+    </item>
+    
+    <item>
+      <title>Add new legal entity</title>
       <link>https://my.fesco.com/en/access/new_client/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -246,7 +301,7 @@ Example of a letter for partially closing</description>
     </item>
     
     <item>
-      <title>Ошибки заявок</title>
+      <title>Request errors</title>
       <link>https://my.fesco.com/en/all_orders/errors/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -269,17 +324,19 @@ Error cause: probably you don’t have an additional agreement for working with 
     </item>
     
     <item>
-      <title>Загрузка документов</title>
-      <link>https://my.fesco.com/en/customs_documents/</link>
+      <title>FAQ</title>
+      <link>https://my.fesco.com/en/all_orders/popular_questions/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://my.fesco.com/en/customs_documents/</guid>
-      <description>Customs declaration menu allows to upload and send the documents for preliminary customs declaring procedure and control the terms of issuing documents.  
-List of required documents for Clearance procedure for transit:  Invoice (proforma invoice) Packing list B/L Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement son the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).</description>
+      <guid>https://my.fesco.com/en/all_orders/popular_questions/</guid>
+      <description>How to restore a cancelled request?  Find the request, press “submit again”, then the request will be open for editing.
+  When is the request moved to the archive? 
+The request is moved to the archive in two cases:
+ shipment completion, deleting the request in the account.  After the shipment completion the request is moved to the archive not immediately but when the closing documents are generated on this shipment.</description>
     </item>
     
     <item>
-      <title>Статусы документов</title>
+      <title>Statuses of the document</title>
       <link>https://my.fesco.com/en/customs_documents/statuses/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -289,7 +346,17 @@ List of required documents for Clearance procedure for transit:  Invoice (profor
     </item>
     
     <item>
-      <title>Просмотр уже закрытых платежек</title>
+      <title>Uploading documents</title>
+      <link>https://my.fesco.com/en/customs_documents/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/customs_documents/</guid>
+      <description>Customs declaration menu allows to upload and send the documents for preliminary customs declaring procedure and control the terms of issuing documents.  
+List of required documents for Clearance procedure for transit:  Invoice (proforma invoice) Packing list B/L Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement son the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).</description>
+    </item>
+    
+    <item>
+      <title>View the RECEIPTS</title>
       <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -302,18 +369,7 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
-      <title>ЖД накладные</title>
-      <link>https://my.fesco.com/en/tracking/railway_bills/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
-      <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
-    </item>
-    
-    <item>
-      <title>Счета/акты/коносаменты</title>
+      <title>Invoices, certificates and B/Ls</title>
       <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -324,23 +380,43 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
-      <title>Расписание</title>
-      <link>https://my.fesco.com/en/schedule/</link>
-      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Railway B/Ls</title>
+      <link>https://my.fesco.com/en/tracking/railway_bills/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://my.fesco.com/en/schedule/</guid>
-      <description>To see the timetable:
- Go to “schedule of the services” ; Enter necessary information; Press “find a schedule”.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     </description>
+      <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
+      <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
+ Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
     </item>
     
     <item>
-      <title>Электронный архив</title>
+      <title>Electronic archive</title>
       <link>https://my.fesco.com/en/elar/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/elar/</guid>
       <description>In this menu you can find all the closing documents of your shipments, download them in archive, and send requests for reconciliation reports and copies of the documents.  Documents list: To see the closing documents on your shipments, go to Electronic archive .
 To download a single document, press the icon in column “Document (1)”.  To download all the documents on your shipment, press the icon “download documents’ package” (2).</description>
+    </item>
+    
+    <item>
+      <title>Payment binding</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://my.fesco.com/en/schedule/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/schedule/</guid>
+      <description>To see the timetable:
+ Go to “schedule of the services” ; Enter necessary information; Press “find a schedule”.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     </description>
     </item>
     
     <item>
@@ -354,6 +430,19 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     </item>
     
     <item>
+      <title>Download the documents in archive file</title>
+      <link>https://my.fesco.com/en/elar/archive_zip/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
+      <description>To download the documents in archive file:
+а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
+  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+  The archive file will be downloaded to your computer.
+Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
+    </item>
+    
+    <item>
       <title>Frequently Asked Questions</title>
       <link>https://my.fesco.com/en/registration/questions/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -363,7 +452,7 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     </item>
     
     <item>
-      <title>Популярные вопросы</title>
+      <title>Frequently asked questions</title>
       <link>https://my.fesco.com/en/new_order/questions/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       

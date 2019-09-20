@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registration on Fesco Help</title>
+    <title>Tracking the cargo on Fesco Help</title>
     <link>https://my.fesco.com/en/tracking/</link>
-    <description>Recent content in Registration on Fesco Help</description>
+    <description>Recent content in Tracking the cargo on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Sep 2014 21:54:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://my.fesco.com/en/tracking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Досмотр, взвешивание и МИДК</title>
+      <title>Where is my container?</title>
+      <link>https://my.fesco.com/en/tracking/where_container/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
+      <description>Step 1. To find out where your container is:
+— go to the tracking page;
+   — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
+
+Step 2. To find out more information about the shipment, go to a detailed page in your account.
+In “container’s voyage” block you can see all the information regarding the shipment’s activities and location.</description>
+    </item>
+    
+    <item>
+      <title>Inspection, weight measuring and x-ray inspection</title>
       <link>https://my.fesco.com/en/tracking/customs_events/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -33,7 +47,7 @@
     </item>
     
     <item>
-      <title>Счета/акты/коносаменты</title>
+      <title>Invoices, certificates and B/Ls</title>
       <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -44,7 +58,7 @@
     </item>
     
     <item>
-      <title>ЖД накладные</title>
+      <title>Railway B/Ls</title>
       <link>https://my.fesco.com/en/tracking/railway_bills/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -52,15 +66,6 @@
       <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
  Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
  Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/where_container/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
-      <description></description>
     </item>
     
   </channel>

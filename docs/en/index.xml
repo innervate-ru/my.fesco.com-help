@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>RUB счет - RUB оплата</title>
+      <title>RUB invoice – RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>Новая заявка через форму</title>
+      <title>New request form</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -46,7 +46,7 @@
     </item>
     
     <item>
-      <title>Черновики и шаблоны</title>
+      <title>Drafts and templates</title>
       <link>https://my.fesco.com/en/all_orders/templates_and_drafts/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,21 @@
     </item>
     
     <item>
-      <title>Отправка запроса на доступ</title>
+      <title>Where is my container?</title>
+      <link>https://my.fesco.com/en/tracking/where_container/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
+      <description>Step 1. To find out where your container is:
+— go to the tracking page;
+   — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
+
+Step 2. To find out more information about the shipment, go to a detailed page in your account.
+In “container’s voyage” block you can see all the information regarding the shipment’s activities and location.</description>
+    </item>
+    
+    <item>
+      <title>Access Request</title>
       <link>https://my.fesco.com/en/access/request/</link>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
@@ -68,7 +82,7 @@
     </item>
     
     <item>
-      <title>USD счет - RUB оплата</title>
+      <title>USD invoice - RUB payment</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -79,7 +93,7 @@
     </item>
     
     <item>
-      <title>Досмотр, взвешивание и МИДК</title>
+      <title>Inspection, weight measuring and x-ray inspection</title>
       <link>https://my.fesco.com/en/tracking/customs_events/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -90,7 +104,7 @@
     </item>
     
     <item>
-      <title>Тегирование</title>
+      <title>Using tags</title>
       <link>https://my.fesco.com/en/all_orders/tagging/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -100,7 +114,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Запрос дубликатов документов</title>
+      <title>Request copies of documents </title>
       <link>https://my.fesco.com/en/elar/duplicated_documents_requests/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -111,16 +125,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Как заполнять поля заявки</title>
-      <link>https://my.fesco.com/en/new_order/fields/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/new_order/fields/</guid>
-      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
-    </item>
-    
-    <item>
-      <title>Новая заявка из калькулятора</title>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -133,7 +138,16 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Новая заявка из шаблона</title>
+      <title>Как заполнять поля заявки</title>
+      <link>https://my.fesco.com/en/new_order/fields/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/fields/</guid>
+      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
+    </item>
+    
+    <item>
+      <title>New request from template</title>
       <link>https://my.fesco.com/en/new_order/online_order/templates/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -145,7 +159,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
-      <title>Копирование из старой заявки</title>
+      <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -157,7 +171,17 @@ After sending the request you will get a notification with all the request detai
     </item>
     
     <item>
-      <title>Добавление нового юр.лица</title>
+      <title>USD invoice - USD payment</title>
+      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
+      <description>Instructions for paying off foreign currency invoices with foreign currency payments. If the invoice was issued in foreign currency (not RUB), and the payment was made in the same foreign currency:
+ Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
+    </item>
+    
+    <item>
+      <title>Add new legal entity</title>
       <link>https://my.fesco.com/en/access/new_client/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -169,7 +193,7 @@ After sending the request you will get a notification with all the request detai
     </item>
     
     <item>
-      <title>Ошибки заявок</title>
+      <title>Request errors</title>
       <link>https://my.fesco.com/en/all_orders/errors/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -192,7 +216,7 @@ Error cause: probably you don’t have an additional agreement for working with 
     </item>
     
     <item>
-      <title>Просмотр уже закрытых платежек</title>
+      <title>View the RECEIPTS</title>
       <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -205,7 +229,7 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
-      <title>Счета/акты/коносаменты</title>
+      <title>Invoices, certificates and B/Ls</title>
       <link>https://my.fesco.com/en/tracking/invoices-and-acts/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -216,7 +240,7 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
-      <title>ЖД накладные</title>
+      <title>Railway B/Ls</title>
       <link>https://my.fesco.com/en/tracking/railway_bills/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -237,30 +261,16 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     </item>
     
     <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/where_container/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/where_container/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Config</title>
+      <title>Download the documents in archive file</title>
       <link>https://my.fesco.com/en/elar/archive_zip/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
-      <description> Config </description>
+      <description>To download the documents in archive file:
+а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
+  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+  The archive file will be downloaded to your computer.
+Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
     </item>
     
     <item>
