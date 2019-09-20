@@ -197,6 +197,20 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
+      <title>All about requests</title>
+      <link>https://my.fesco.com/en/all_orders/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/all_orders/</guid>
+      <description>####Что такое черновик? Черновик — это сохраненная, но не отправленная заявка.
+Чтобы сохранить черновик, нажмите в новой заявке &amp;ldquo;Сохранить&amp;rdquo; вместо &amp;ldquo;Отправить заявку&amp;rdquo;.
+####Что такое шаблон? Шаблон это заявка, которая отмечена тегом “шаблон”. Из шаблона можно создать новую заявку.
+Как создавать заявку из шаблона
+! Шаблоны привязываются к компаниям, а не пользователям. Т.е. все пользователи, привязанные к одной компании, увидят одни и те же шаблоны.
+После попытки отправить заявку из шаблона или черновика, произойдёт проверка ставки и доступности выбранного рейса (для морской заявки).</description>
+    </item>
+    
+    <item>
       <title>Копирование из старой заявки</title>
       <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
