@@ -1,7 +1,6 @@
 ---
 date: "2018-10-30"
-title: "Статусы документов"
-titleEn: "Statuses of the document"
+title: "Statuses of the document"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

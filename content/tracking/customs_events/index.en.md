@@ -1,7 +1,6 @@
 ---
 date: "2018-12-11"
-title: "Досмотр, взвешивание и МИДК"
-titleEn: "Inspection, weight measuring and x-ray inspection"
+title: "Inspection, weight measuring and x-ray inspection"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

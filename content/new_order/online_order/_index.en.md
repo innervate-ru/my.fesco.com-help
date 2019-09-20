@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Онлайн-заявка"
-titleEn: "Online request"
+title: "Online request"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

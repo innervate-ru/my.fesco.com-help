@@ -1,7 +1,6 @@
 ---
 date: "2018-10-30"
-title: "Загрузка и отправка документов"
-titleEn: "Uploading and submitting the documents"
+title: "Uploading and submitting the documents"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

@@ -1,7 +1,6 @@
 ---
 date: "2018-12-12"
-title: "Ошибки заявок"
-titleEn: "Request errors"
+title: "Request errors"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

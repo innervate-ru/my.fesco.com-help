@@ -1,7 +1,6 @@
 ---
 date: "2018-11-13"
 title: "Электронный архив"
-titleEn: "test3"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

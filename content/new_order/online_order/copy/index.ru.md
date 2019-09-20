@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
 title: "Копирование из старой заявки"
-titleEn: "Request from the Calculator menu"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

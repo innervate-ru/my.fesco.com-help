@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Новая заявка из калькулятора"
-titleEn: "Request from the Calculator menu"
+title: "Request from the Calculator menu"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

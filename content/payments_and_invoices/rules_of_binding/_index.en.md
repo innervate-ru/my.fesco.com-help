@@ -1,7 +1,6 @@
 ---
 date: "2018-03-21"
-title: "Правила привязки платежей"
-titleEn: "Rules for payment binding"
+title: "Rules for payment binding"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

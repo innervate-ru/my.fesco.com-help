@@ -1,7 +1,6 @@
 ---
 date: "2018-11-13"
-title: "Расписание"
-titleEn: "Schedule"
+title: "Schedule"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

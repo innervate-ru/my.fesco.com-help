@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
 title: "Новая заявка из шаблона"
-titleEn: "test3"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

@@ -1,7 +1,6 @@
 ---
 date: "2018-05-30"
 title: "Отправка запроса на доступ"
-titleEn: "test3"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

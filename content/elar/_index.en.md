@@ -1,7 +1,6 @@
 ---
 date: "2018-11-13"
-title: "Электронный архив"
-titleEn: "Electronic archive"
+title: "Electronic archive"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

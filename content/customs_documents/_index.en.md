@@ -1,7 +1,6 @@
 ---
 date: "2018-10-30"
-title: "Загрузка документов"
-titleEn: "Uploading documents"
+title: "Uploading documents"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

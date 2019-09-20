@@ -1,7 +1,6 @@
 ---
 date: "2019-06-21"
-title: "View the RECEIPTS"
-titleEn: "test3"
+title: "Просмотр уже закрытых платежек"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

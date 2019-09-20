@@ -1,7 +1,6 @@
 ---
 date: "2018-05-30"
-title: "Отправка запроса на доступ"
-titleEn: "Access Request"
+title: "Access Request"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

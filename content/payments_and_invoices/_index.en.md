@@ -1,12 +1,13 @@
 ---
-Categories: []
+date: "2019-03-21"
+title: "Payment binding"
+tags: ["api", "метод"]
 Description: ""
-Tags: []
-date: "2014-09-29T21:54:53-05:00"
-title: "Registration"
-weight: 10
 type: help_doc
 layout: help_doc
+weight: 8
+menuIcon: unlink
+redirect: "/payments_and_invoices/rules_of_binding/"
 ---
 
 

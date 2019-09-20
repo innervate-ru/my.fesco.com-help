@@ -1,7 +1,6 @@
 ---
 date: "2018-12-12"
 title: "Добавление нового юр.лица"
-titleEn: "test3"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

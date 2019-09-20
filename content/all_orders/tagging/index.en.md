@@ -1,7 +1,6 @@
 ---
 date: "2018-11-14"
-title: "Тегирование"
-titleEn: "Using tags"
+title: "Using tags"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

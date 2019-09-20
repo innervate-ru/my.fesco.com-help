@@ -1,7 +1,6 @@
 ---
 date: "2018-12-12"
-title: "Добавление нового юр.лица"
-titleEn: "Add new legal entity"
+title: "Add new legal entity"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

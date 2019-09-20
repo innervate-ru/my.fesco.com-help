@@ -1,7 +1,6 @@
 ---
 date: "2018-12-11"
-title: "ЖД накладные"
-titleEn: "Railway B/Ls"
+title: "Railway B/Ls"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

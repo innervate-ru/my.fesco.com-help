@@ -1,7 +1,6 @@
 ---
 date: "2019-03-21"
-title: "USD счет - RUB оплата"
-titleEn: "USD invoice - RUB payment"
+title: "USD invoice - RUB payment"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

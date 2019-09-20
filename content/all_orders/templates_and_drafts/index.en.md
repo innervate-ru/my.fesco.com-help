@@ -1,7 +1,6 @@
 ---
 date: "2018-10-30"
-title: "Черновики и шаблоны"
-titleEn: "Drafts and templates"
+title: "Drafts and templates"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

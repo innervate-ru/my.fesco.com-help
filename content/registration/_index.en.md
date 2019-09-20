@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Регистрация"
-titleEn: "Registration"
+title: "Registration"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

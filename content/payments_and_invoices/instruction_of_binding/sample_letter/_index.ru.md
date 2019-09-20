@@ -1,7 +1,6 @@
 ---
 date: "2019-03-21"
 title: "Образцы писем"
-titleEn: "test3"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

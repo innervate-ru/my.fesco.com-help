@@ -1,7 +1,6 @@
 ---
 date: "2018-12-18"
 title: "Выгрузка документов архивом"
-titleEn: "Download the documents in archive file"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
