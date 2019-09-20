@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Request reconciliation reports</title>
+      <link>https://my.fesco.com/en/elar/act_requests/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
+      <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
+  б) Fill in the form in “information” block. 
+ Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
+    </item>
+    
+    <item>
       <title>Новая заявка через форму</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -170,6 +181,17 @@ Error cause: probably you don’t have an additional agreement for working with 
     </item>
     
     <item>
+      <title>Customs declaration </title>
+      <link>https://my.fesco.com/en/tracking/custom_declaration/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
+      <description>When the customs declaration is generated, it will appear on the detailed pade of the request in your account.  To access, download and copy the information in the declaration, press “Open”.
+   Then press “download PDF”.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также</description>
+    </item>
+    
+    <item>
       <title>Просмотр уже закрытых платежек</title>
       <link>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
@@ -205,7 +227,7 @@ Then you will see a table with all the information on the right:
     </item>
     
     <item>
-      <title>Как зарегистрироваться в личном кабинете</title>
+      <title>How to register an account</title>
       <link>https://my.fesco.com/en/registration/instruction/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -225,29 +247,11 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     
     <item>
       <title>Registration</title>
-      <link>https://my.fesco.com/en/tracking/custom_declaration/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
       <link>https://my.fesco.com/en/tracking/where_container/</link>
       <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
       
       <guid>https://my.fesco.com/en/tracking/where_container/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://my.fesco.com/en/elar/act_requests/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
-      <description> Config </description>
     </item>
     
     <item>
@@ -260,7 +264,7 @@ INN (taxpayer identification number) number and e-mail entered during the regist
     </item>
     
     <item>
-      <title>Популярные вопросы</title>
+      <title>Frequently Asked Questions</title>
       <link>https://my.fesco.com/en/registration/questions/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       

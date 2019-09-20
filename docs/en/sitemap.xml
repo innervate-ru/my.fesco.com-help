@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://my.fesco.com/en/elar/act_requests/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/elar/act_requests/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/elar/act_requests/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/en/new_order/online_order/from_new_order/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -303,6 +318,21 @@
   </url>
   
   <url>
+    <loc>https://my.fesco.com/en/tracking/custom_declaration/</loc>
+    <lastmod>2018-12-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://my.fesco.com/tracking/custom_declaration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://my.fesco.com/en/tracking/custom_declaration/"
+                />
+  </url>
+  
+  <url>
     <loc>https://my.fesco.com/en/customs_documents/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -543,21 +573,6 @@
   </url>
   
   <url>
-    <loc>https://my.fesco.com/en/tracking/custom_declaration/</loc>
-    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://my.fesco.com/tracking/custom_declaration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://my.fesco.com/en/tracking/custom_declaration/"
-                />
-  </url>
-  
-  <url>
     <loc>https://my.fesco.com/en/tracking/customs_documents/</loc>
     <lastmod>2014-09-29T21:54:53-05:00</lastmod>
     <xhtml:link
@@ -584,21 +599,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://my.fesco.com/en/tracking/where_container/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://my.fesco.com/en/elar/act_requests/</loc>
-    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://my.fesco.com/elar/act_requests/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://my.fesco.com/en/elar/act_requests/"
                 />
   </url>
   

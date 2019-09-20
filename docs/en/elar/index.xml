@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Request reconciliation reports</title>
+      <link>https://my.fesco.com/en/elar/act_requests/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
+      <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
+  б) Fill in the form in “information” block. 
+ Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
+    </item>
+    
+    <item>
       <title>Запрос дубликатов документов</title>
       <link>https://my.fesco.com/en/elar/duplicated_documents_requests/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
@@ -19,15 +30,6 @@
       <description>а) **Go to ** Requests for duplicate documents  and press “new request” or an orange plus sign.
   б) Fill in the form in “information” block: 
  Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).    в) Enter your contact information::</description>
-    </item>
-    
-    <item>
-      <title>Config</title>
-      <link>https://my.fesco.com/en/elar/act_requests/</link>
-      <pubDate>Mon, 29 Sep 2014 21:54:53 -0500</pubDate>
-      
-      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
-      <description> Config </description>
     </item>
     
     <item>

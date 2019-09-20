@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Request reconciliation reports</title>
+      <link>https://my.fesco.com/en/elar/act_requests/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/elar/act_requests/</guid>
+      <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
+  б) Fill in the form in “information” block. 
+ Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
+    </item>
+    
+    <item>
       <title>Новая заявка через форму</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_new_order/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -233,6 +244,17 @@ Error cause: probably you don’t have an additional agreement for working with 
     </item>
     
     <item>
+      <title>Customs declaration </title>
+      <link>https://my.fesco.com/en/tracking/custom_declaration/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
+      <description>When the customs declaration is generated, it will appear on the detailed pade of the request in your account.  To access, download and copy the information in the declaration, press “Open”.
+   Then press “download PDF”.
+ Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также</description>
+    </item>
+    
+    <item>
       <title>Загрузка документов</title>
       <link>https://my.fesco.com/en/customs_documents/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
@@ -308,13 +330,22 @@ To download a single document, press the icon in column “Document (1)”.  To 
     </item>
     
     <item>
-      <title>Как зарегистрироваться в личном кабинете</title>
+      <title>How to register an account</title>
       <link>https://my.fesco.com/en/registration/instruction/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/registration/instruction/</guid>
       <description>• Access and complete the registration form;  • Wait for the confirmation code in SMS from FESCO to your mobile number;  • Enter the confirmation code in the registration form;  • Log-in password will be sent to your e-mail and phone number. 
 INN (taxpayer identification number) number and e-mail entered during the registration will be used for accessing the system and sending notifications from your account for making requests and for other operations.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://my.fesco.com/en/registration/questions/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/registration/questions/</guid>
+      <description>If you didn&amp;#39;t receive a password on your e-mail   Check spam and low-priority folders. Message us in the chat on our web-site.   What is a full and limited access to the account?  After registration you will get a limited access to your account.  You can use the following functions:    Public access Limited access Full access     The calculator of shipment price         Filing requests for quotations         Filing requests for transportations         Saving drafts order         Copy orders         Container tracking and shipment status         Downloading and checking status of the customs documents         Entering the data on VGM         Contacts and bills         Chat with a manager</description>
     </item>
     
     <item>
@@ -326,15 +357,6 @@ INN (taxpayer identification number) number and e-mail entered during the regist
       <description>How to add one more cargo to the request?  In GNG CODE field enter the code for collected cargoes: 99020000 In “additional requirements” field indicate detailed information for the cargoes.    Where is the information about door delivery? 
 In “additional requirements” field.    Who can I indicate as a consignee at the destination station? 
 In case of FESCO removal, &amp;ldquo;FIT agent&amp;rdquo; is indicated.</description>
-    </item>
-    
-    <item>
-      <title>Популярные вопросы</title>
-      <link>https://my.fesco.com/en/registration/questions/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/registration/questions/</guid>
-      <description>If you didn&amp;#39;t receive a password on your e-mail   Check spam and low-priority folders. Message us in the chat on our web-site.   What is a full and limited access to the account?  After registration you will get a limited access to your account.  You can use the following functions:    Public access Limited access Full access     The calculator of shipment price         Filing requests for quotations         Filing requests for transportations         Saving drafts order         Copy orders         Container tracking and shipment status         Downloading and checking status of the customs documents         Entering the data on VGM         Contacts and bills         Chat with a manager</description>
     </item>
     
   </channel>
