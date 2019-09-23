@@ -108,11 +108,11 @@ Using the Service allows to save the Client’s time which previously was spent 
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/rouble-rouble/" text="Closing ruble invoices with ruble payments">}}
-    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-rouble/" text="Closing foreign currency invoices with ruble payments">}}
-    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/usd-usd/" text="Closing foreign currency invoices with foreign currency payments">}}
-    {{<seeAlsoItem link="/payments_and_invoices/instruction_of_binding/sample_letter/" text="Examples of letters">}}
-    {{<seeAlsoItem link="/payments_and_invoices/closed_payment_orders/" text="Review information on paid invoices">}}
+    {{<seeAlsoItem link="/en/payments_and_invoices/instruction_of_binding/rouble-rouble/" text="Closing ruble invoices with ruble payments">}}
+    {{<seeAlsoItem link="/en/payments_and_invoices/instruction_of_binding/usd-rouble/" text="Closing foreign currency invoices with ruble payments">}}
+    {{<seeAlsoItem link="/en/payments_and_invoices/instruction_of_binding/usd-usd/" text="Closing foreign currency invoices with foreign currency payments">}}
+    {{<seeAlsoItem link="/en/payments_and_invoices/instruction_of_binding/sample_letter/" text="Examples of letters">}}
+    {{<seeAlsoItem link="/en/payments_and_invoices/closed_payment_orders/" text="Review information on paid invoices">}}
 {{</seeAlso>}}
 
 
