@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rules for payment binding on Fesco Help</title>
+    <title>Instructions for payment binding on Fesco Help</title>
     <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</link>
-    <description>Recent content in Rules for payment binding on Fesco Help</description>
+    <description>Recent content in Instructions for payment binding on Fesco Help</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     
@@ -17,8 +17,9 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</guid>
       <description>Instructions on closing ruble invoices with ruble payments If the issued invoice is in rubles and the payment was made in rubles:
- In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).    
- payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+1) In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).
+  
+ payment number – number of the payment order agreement number – number used for payments date of payment – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment    2) In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
     <item>
@@ -28,8 +29,9 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</guid>
       <description>Instruction for closing foreign currency invoices with payments in rubles If the invoice was issued in foreign currency, and you made payments in rubles:
- Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)    
- payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+1) Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)
+  
+ payment number – number of the payment order agreement number – number used for payments date of payment – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment    2) In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
     <item>
@@ -39,7 +41,7 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
       <description>Instructions for paying off foreign currency invoices with foreign currency payments. If the invoice was issued in foreign currency (not RUB), and the payment was made in the same foreign currency:
- Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
+1) Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
     </item>
     
   </channel>

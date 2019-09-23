@@ -17,8 +17,9 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</guid>
       <description>Instructions on closing ruble invoices with ruble payments If the issued invoice is in rubles and the payment was made in rubles:
- In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).    
- payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+1) In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).
+  
+ payment number – number of the payment order agreement number – number used for payments date of payment – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment    2) In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
     <item>
@@ -111,7 +112,7 @@ In “Vehicles” block you can see all the information regarding the shipment�
       <description>On My access you can file a request for access to different sections/menus in your account and monitor the process of getting the access.  Completing access request form: а) Fill in the form: 
 — Find the form using the sections menu, select the legal entity from the list.
   — Fill in the form with your details (the form may be partly filled in automatically):
- “Legal entity” field  - select the legal entity from the list; “Company of FESCO Group” field  - select one of the companies of FESCO Group; “Name of the signatory” field  - enter the signatory’s full name ; “Acting upon” field  - indicate the grounds; “Name of the party authorized by the Client to work with documents”  – enter the full name of the authorized party; “E-mail address of the party authorized by the Client to work with documents”  – enter an e-mail address of the authorized party; “Mobile phone of the party authorized by the Client to work with documents”  – enter a mobile phone of the authorized party  — Tick the box “I agree to the processing of my personal data”</description>
+ “Your legal entity” field  - select the legal entity from the list; “FESCO GC Group” field  - select one of the companies of FESCO Group; “Name of signer of SA” field  - enter the signatory’s full name ; “Valid Based” field  - indicate the grounds; “Name of the person authorized by the Client to perform actions with documents”  – enter the full name of the authorized party; “E-mail Adress the mail of the person authorized by the Client to perform actions with documents”  – enter an e-mail address of the authorized party; “Mobile phone of the person authorized by the Client to perform actions with documents”  – enter a mobile phone of the authorized party  — Tick the box “I agree to processing of personal data”</description>
     </item>
     
     <item>
@@ -130,8 +131,9 @@ In “Vehicles” block you can see all the information regarding the shipment�
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</guid>
       <description>Instruction for closing foreign currency invoices with payments in rubles If the invoice was issued in foreign currency, and you made payments in rubles:
- Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)    
- payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
+1) Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)
+  
+ payment number – number of the payment order agreement number – number used for payments date of payment – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment    2) In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
     <item>
@@ -199,12 +201,15 @@ c) select the rate and press “Make order”    You can filter the rates by Poi
     </item>
     
     <item>
-      <title>Rules for payment binding</title>
+      <title>Instructions for payment binding</title>
       <link>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/</guid>
-      <description></description>
+      <description>Instructions on closing ruble invoices with ruble payments
+Instruction for closing foreign currency invoices with payments in rubles
+Instructions for paying off foreign currency invoices with foreign currency payments
+Examples of letters</description>
     </item>
     
     <item>
@@ -283,7 +288,7 @@ Example of a letter for partially closing</description>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-usd/</guid>
       <description>Instructions for paying off foreign currency invoices with foreign currency payments. If the invoice was issued in foreign currency (not RUB), and the payment was made in the same foreign currency:
- Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
+1) Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  Currency of the payment must be not RUB (USD, EUR, CNY, KZT or other).</description>
     </item>
     
     <item>
@@ -360,7 +365,7 @@ List of required documents for Clearance procedure for transit:  Invoice (profor
       
       <guid>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</guid>
       <description>View what invoices were used to cover the receipt.  In “unbound payments” block (on the left) select the payment for detalization:  
- Go to “bound payments” (on the right):
+ Go to “Tied payments” (on the right):
     
 Then you will see a table with all the information on the right:
  Date, amount, invoice number ;  Date, amount, payment number;  Contract number   Use horizontal scroll to view the information in the table.</description>

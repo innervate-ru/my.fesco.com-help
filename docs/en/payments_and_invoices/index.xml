@@ -17,7 +17,7 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</guid>
       <description>View what invoices were used to cover the receipt.  In “unbound payments” block (on the left) select the payment for detalization:  
- Go to “bound payments” (on the right):
+ Go to “Tied payments” (on the right):
     
 Then you will see a table with all the information on the right:
  Date, amount, invoice number ;  Date, amount, payment number;  Contract number   Use horizontal scroll to view the information in the table.</description>
