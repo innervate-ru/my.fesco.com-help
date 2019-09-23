@@ -618,21 +618,6 @@
   </url>
   
   <url>
-    <loc>https://my.fesco.com/en/why_cabinet/</loc>
-    <lastmod>2014-09-29T21:54:53-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://my.fesco.com/why_cabinet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://my.fesco.com/en/why_cabinet/"
-                />
-  </url>
-  
-  <url>
     <loc>https://my.fesco.com/en/new_order/questions/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <xhtml:link

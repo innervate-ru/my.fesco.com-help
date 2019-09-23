@@ -16,11 +16,11 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/from_new_order/</guid>
-      <description>а) Go to “my requests” page and press the orange button “new request”;  б) Choose the type of the request – New request;
-
-в) Select the initial entries:
- Planned date of shipment, Route, Container type, Container’s owner;  
-г) Choose the Rate, for selecting the rate press “select price”; you can filter the price rates by the Destination, Customs clearance location or Currency; then press “select the rate”</description>
+      <description>a) Go to “My Orders page” and press the orange button “New order”;  b) Choose the type of the request – New order;
+  
+c) Select the initial entries:
+ Data of dispatch, Route, Container type, Container ownership;    
+d) Choose the Rate, for selecting the rate press “Select offer”; you can filter the price rates by the Destination, Customs clearance location or Currency; then press “Select offer”</description>
     </item>
     
     <item>
@@ -29,11 +29,11 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/from_calculator/</guid>
-      <description>а) Go to “Calculator”;  б) Select initial entries:
- planned date of shipment, route, container type, container’s owner,  and press “calculate the price”;
-
-в) select the rate and press “submit the request”   You can filter the rates by Destination, Customs clearance place and Currency
- г) fill in the fields; fields marked with * are mandatory; and press “submit the request”.</description>
+      <description>a) Go to “Calculator”;  b) Select initial entries:
+ date of dispatch, route, container type, container owner,  and press “Get rate”;
+  
+c) select the rate and press “Make order”    You can filter the rates by Point of Destination, Place of customs clearance place and Offers currency 
+  d) fill in the fields; fields marked with * are mandatory; and press “Create”.</description>
     </item>
     
     <item>
@@ -42,21 +42,21 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/templates/</guid>
-      <description>Use this feature for your repeating requests with the same details. Шаг 1. To make an old request as a template:
- go to “list ot requests” change to Tablet layout press “add” make a tag “template” and press Enter or select the tag from the list.  
-Шаг 2. To create a request based on a template:
- press “new request” button and select “from the template” find the request and press “submit again” fill in the fields, fields marked with * are mandatory; and press “submit the request”.</description>
+      <description>Use this feature for your repeating requests with the same details.  Step 1. To make an old request as a template:
+ go to “My orders” change to Tablet layout press “Add” make a tag “template” and press Enter or select the tag from the list.    
+Step 2. To create a request based on a template:
+ press “New order” button and select “From template” find the request and press “Repeat” fill in the fields, fields marked with * are mandatory; and press “Create”.</description>
     </item>
     
     <item>
-      <title>Request from the Calculator menu</title>
+      <title>Copy from the previous request</title>
       <link>https://my.fesco.com/en/new_order/online_order/copy/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/copy/</guid>
-      <description>Use this feature if you want to make a new request using the previously entered info. а) Go to “List of requests”;  б) Find a previous request and press “repeat”;
-
-в) Fill in the fields; fields marked with * are mandatory; and press “submit the request”.
+      <description>Use this feature if you want to make a new request using the previously entered info.  а) Go to “My orders”;  б) Find a previous request and press “Repeat”;
+  
+в) Fill in the fields; fields marked with * are mandatory; and press “Create”.
 After sending the request you will get a notification with all the request details on your email.  You can continue the correspondence by sending a REPLY to the message.</description>
     </item>
     
