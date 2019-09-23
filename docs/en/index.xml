@@ -99,7 +99,7 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/customs_events/</guid>
       <description>On the detailed page of the request in “Customs procedures” block you can find the information on the following customs procedures:
- inspection; measuring weight; x-ray inspection system.  Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+ inspection; measuring weight; x-ray inspection system.  Was this article helpful?YesNoUsers that counts this article helpful  of Is there any questions? Send a request See also
 Where is my container?Customs documentsCustoms declarationInvoices, certificates and B/Ls Railway B/Ls  </description>
     </item>
     
@@ -125,6 +125,15 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
     </item>
     
     <item>
+      <title>How to fill in the fields in the request</title>
+      <link>https://my.fesco.com/en/new_order/fields/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://my.fesco.com/en/new_order/fields/</guid>
+      <description>“ownership of the container” FieldSelect “COC” if the container belongs to FESCOSelect “SOC” if the container belongs to your or other entity.“Legal entity” FieldSelect one of the agreements to make a shipment request for it.“Cargo name on B/L” FieldEnter actual name of the cargoFor example, “Construction materials” or “Metal furniture”.ETCNG - GNG CodesHarmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
+    </item>
+    
+    <item>
       <title>Request from the Calculator menu</title>
       <link>https://my.fesco.com/en/new_order/online_order/from_calculator/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -135,15 +144,6 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
 
 в) select the rate and press “submit the request”   You can filter the rates by Destination, Customs clearance place and Currency
  г) fill in the fields; fields marked with * are mandatory; and press “submit the request”.</description>
-    </item>
-    
-    <item>
-      <title>Как заполнять поля заявки</title>
-      <link>https://my.fesco.com/en/new_order/fields/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://my.fesco.com/en/new_order/fields/</guid>
-      <description>“ownership of the container” FieldSelect “COC” if the container belongs to FESCOSelect “SOC” if the container belongs to your or other entity.“Legal entity” FieldSelect one of the agreements to make a shipment request for it.“Cargo name on B/L” FieldEnter actual name of the cargoFor example, “Construction materials” or “Metal furniture”.ETCNG - GNG CodesHarmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
     </item>
     
     <item>
@@ -212,7 +212,7 @@ Error cause: probably you don’t have an additional agreement for working with 
       <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
       <description>When the customs declaration is generated, it will appear on the detailed pade of the request in your account.  To access, download and copy the information in the declaration, press “Open”.
  Then press “download PDF”.
-Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также</description>
+Was this article helpful?YesNoUsers that counts this article helpful  of Is there any questions? Send a request See also</description>
     </item>
     
     <item>
@@ -235,7 +235,7 @@ Then you will see a table with all the information on the right:
       
       <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
       <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
-Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Was this article helpful?YesNoUsers that counts this article helpful  of Is there any questions? Send a request See also
 Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationRailway B/Ls  </description>
     </item>
     
@@ -246,7 +246,7 @@ Then you will see a table with all the information on the right:
       
       <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
       <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
-Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Was this article helpful?YesNoUsers that counts this article helpful  of Is there any questions? Send a request See also
 Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationInvoices, certificates and B/Ls  </description>
     </item>
     
@@ -270,7 +270,7 @@ INN (taxpayer identification number) number and e-mail entered during the regist
 а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
  The archive file will be downloaded to your computer.
-Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы?</description>
+Was this article helpful?YesNoUsers that counts this article helpful  of Is there any questions?</description>
     </item>
     
     <item>
