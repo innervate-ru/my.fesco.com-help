@@ -20,11 +20,11 @@ weight: 10
   <b>We advise you to make sure the entered data is relevant and correct.</b>
 </div>
  
-{{< gif name="images/screencast1-1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:50%">}}
+{{< gif name="images/en_screencast1-1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:50%">}}
 
 
 <br/>
-Now you have   <a href="/registration/questions/" target="_blank"> a limited access</a>  to your account.
+Now you have   <a href="/en/registration/questions/" target="_blank"> a limited access</a>  to your account.
 <br/>
 
 To get full access to your account please contact a manager in <a href="https://www.fesco.ru/en/contacts/" target="_blank">any of our offices</a>. 

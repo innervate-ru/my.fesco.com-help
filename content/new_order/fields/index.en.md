@@ -9,15 +9,15 @@ weight: 2
 ---
 
 {{<accordion>}}
-  {{<accordionItem isOpen="true" idNumber="1" title="“ownership of the container” Field">}}
+  {{<accordionItem isOpen="true" idNumber="1" title="“Container ownership” field">}}
     Select “COC” if the container belongs to FESCO<br/>
 Select “SOC” if the container belongs to your or other entity.
 <br/>
   {{</accordionItem>}}
-  {{<accordionItem isOpen="false" idNumber="2" title="“Legal entity” Field">}}
+  {{<accordionItem isOpen="false" idNumber="2" title="“Legal entity” field">}}
     Select one of the agreements to make a shipment request for it.
   {{</accordionItem>}}
-  {{<accordionItem isOpen="false" idNumber="3" title="“Cargo name on B/L” Field">}}
+  {{<accordionItem isOpen="false" idNumber="3" title="“Cargo name on B/L” field">}}
     Enter actual name of the cargo<br/>
 For example, “Construction materials” or “Metal furniture”.
 {{</accordionItem>}}
@@ -25,8 +25,7 @@ For example, “Construction materials” or “Metal furniture”.
     Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.<br/>
 
 Start entering GNG code (3-5 numbers) or the cargo name in the field and select the code from the list. <br/>
-<br/>
-{{< gif name="images/screencast5*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:50%">}}
+{{< gif name="images/en_screencast5*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:50%">}}
 <br/>
 
 Tariff and statistical nomenclature of cargoes (ETCNG) – start entering the numbers or cargo name, and select the number corresponding to the code entered in GNG code field.<br/>
@@ -38,16 +37,16 @@ Tariff and statistical nomenclature of cargoes (ETCNG) – start entering the nu
     This field is for important additional information.<br/>
 For example, delivery to the consignee’s warehouse, address and contacts.
   {{</accordionItem>}}
-   {{<accordionItem isOpen="false" idNumber="6" title="Data for “notify” field on B/L">}}
+   {{<accordionItem isOpen="false" idNumber="6" title="“Notify party“ field">}}
     Enter your or your broker’s contact information.
   {{</accordionItem>}}
-  {{<accordionItem isOpen="false" idNumber="7" title="“Order #” field">}}
+  {{<accordionItem isOpen="false" idNumber="7" title="“Purchase order” field">}}
     If filling this field in, your request will be given an inner number in your account.
 <br/>
   {{</accordionItem>}}
     {{<accordionItem isOpen="false" idNumber="8" title="“Tag” field">}}
     If you add a tag to your request, it will help you to find your requests among the other ones. Tag your request and use the tag to find it.
-{{< img name="images/1*" class="img-fluid" style="width:50%">}}
+{{< img name="images/en_1*" class="img-fluid" style="width:70%">}}
 <br/>
   {{</accordionItem>}}
 {{</accordion>}}

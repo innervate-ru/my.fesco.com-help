@@ -16,25 +16,25 @@ weight: 1
     <div class="row text-inline">
       <div>
        <img src="/img/icon/ico-from-form.png" alt="Иконка">
-        <a href="http://my.fesco.com/help/new_order/online_order/from_new_order/">
+        <a href="http://my.fesco.com/en/help/new_order/online_order/from_new_order/">
           Through<br>“new request” form
         </a>
       </div>
       <div>
        <img src="/img/icon/ico-from-calc.png" alt="Иконка">
-        <a href="http://my.fesco.com/help/new_order/online_order/from_calculator/">
+        <a href="http://my.fesco.com/en/help/new_order/online_order/from_calculator/">
           From the<br>Calculator menu
         </a>
       </div>
       <div>
        <img src="/img/icon/ico-from-copy.png" alt="Иконка">
-        <a href="http://my.fesco.com/help/new_order/online_order/copy/">
+        <a href="http://my.fesco.com/en/help/new_order/online_order/copy/">
           From a previous<br>request (To copy)
         </a>
       </div>
       <div>
        <img src="/img/icon/ico-from-template.png" alt="Иконка">
-        <a href="http://my.fesco.com/help/new_order/online_order/templates/">
+        <a href="http://my.fesco.com/en/help/new_order/online_order/templates/">
           From template
         </a>
       </div>

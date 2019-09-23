@@ -11,10 +11,10 @@ menuIcon: calendar
 
 To see the timetable:
 
-* Go to  <a href="https://www.fesco.ru/clients/schedule/ship_and_train_schedule/" target="_blank">“schedule of the services”</a> ; 
+* Go to  <a href="https://www.fesco.ru/en/clients/schedule/ship_and_train_schedule/" target="_blank">“Schedules”</a> ; 
 * Enter necessary information;
-* Press “find a schedule”.
+* Press “Show schedule”.
 
-{{< img name="5*" class="img-fluid" style="width:70%">}}
+{{< img name="en_5*" class="img-fluid" style="width:70%">}}
 
 {{<isHelpful>}}

@@ -1,6 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Frequently asked questions"
+title: "FAQ"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
@@ -16,7 +16,7 @@ In “additional requirements” field indicate detailed information for the car
 <br/>
 {{<alert icon="question-circle" color="alert7-light" text="Where is the information about door delivery?" close="false">}} 
 
-In “additional requirements” field.
+In “Additional requirements” field.
 <br/>
 <br/>
 {{<alert icon="question-circle" color="alert7-light" text="Who can I indicate as a consignee at the destination station?" close="false">}} 
@@ -24,7 +24,7 @@ In “additional requirements” field.
 In case of FESCO removal, "FIT agent" is indicated.
 <br/>
 <br/>
-{{<alert icon="question-circle" color="alert7-light" text="What do I need to enter in the “order number” field?" close="false">}} 
+{{<alert icon="question-circle" color="alert7-light" text="What do I need to enter in the “Purchase order” field?" close="false">}} 
 
 When filling this field in, your personal order number will be indicated there.
 

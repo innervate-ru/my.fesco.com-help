@@ -19,7 +19,7 @@ In your account you can see several types of errors: <br/>
 
 <br/>
 <div class="pixxett-alert pixxett-alert-icon alert6-light">
-  <i class="fa fa-bell"></i> No contract made for this type of shipment:</div>
+  <i class="fa fa-bell"></i> No contract made for this type of shipment.</div>
 
 **Error cause:** probably you don’t have an additional agreement for working with electronic requests in your account. <br/>
 **What to do:** please contact your manager.<br/> 
@@ -43,10 +43,9 @@ After signing the additional agreement you will be granted dull access to the ac
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/all_orders/templates_and_drafts/" text="Черновики и шаблоны">}}
-    {{<seeAlsoItem link="/all_orders/tagging/" text="Зачем нужны теги и как их задать">}}
-    {{<seeAlsoItem link="/all_orders/errors/" text="Ошибки заявок">}}
-    {{<seeAlsoItem link="/all_orders/popular_questions/" text="Как восстановить отмененную заявку?">}}
-    {{<seeAlsoItem link="/all_orders/popular_questions/" text="Как скорректировать заявку?">}}
-    {{<seeAlsoItem link="/all_orders/popular_questions/" text="Когда заявка перемещается в архив?">}}
+    {{<seeAlsoItem link="/en/all_orders/templates_and_drafts/" text="Drafts and templates">}}
+    {{<seeAlsoItem link="/en/all_orders/tagging/" text="Tagging">}}
+    {{<seeAlsoItem link="/en/all_orders/popular_questions/" text="How to restore a cancelled request?">}}
+    {{<seeAlsoItem link="/en/all_orders/popular_questions/" text="How to update a request?">}}
+    {{<seeAlsoItem link="/en/all_orders/popular_questions/" text="When is the request moved to archive?">}}
 {{</seeAlso>}}

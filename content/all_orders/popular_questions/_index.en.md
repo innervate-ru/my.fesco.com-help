@@ -13,7 +13,7 @@ weight: 4
 
 {{<alert icon="question-circle" color="alert7-light" text="How to restore a cancelled request?" close="false">}} 
 
-Find the request, press “submit again”, then the request will be open for editing. 
+Find the request, press “Repeat”, then the request will be open for editing. 
 
 
 <br/>

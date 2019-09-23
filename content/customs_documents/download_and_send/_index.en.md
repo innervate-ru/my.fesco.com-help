@@ -13,9 +13,9 @@ weight: 1
 а) go to <a href="https://my.fesco.com/customs_declaration" target="_blank">”Customs Declaration”</a>; <br/>
 б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; <br/>
 
-{{< img name="2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
+{{< img name="en_2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
 
-{{< img name="5*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
+{{< img name="en_3*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
  <br/>
 в) tap on your ID to go to your request page;
  <br/>
@@ -23,7 +23,7 @@ weight: 1
 — submit the documents in one package (in archive by one file) <br/>
 — submit the document separately (separately send each document) <br/>
 
-{{< gif name="screencast1*"title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
+{{< gif name="en_screencast1*"title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}}
 
 д) press “select a file” and find the file on the computer; <br/>
 
@@ -55,8 +55,8 @@ Uploading the documents packages is available for the documents having the follo
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/customs_documents/reloading/" text="How to additionally upload documents">}}
-    {{<seeAlsoItem link="/customs_documents/delete/" text="How to dismiss the documents">}}
-    {{<seeAlsoItem link="/customs_documents/statuses/" text="Status of the documents">}}
-    {{<seeAlsoItem link="/customs_documents/history/" text="How to view the history of documents’ package">}}
+    {{<seeAlsoItem link="/en/customs_documents/reloading/" text="How to additionally upload documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/delete/" text="How to dismiss the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/statuses/" text="Status of the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/history/" text="How to view the history of documents’ package">}}
 {{</seeAlso>}}

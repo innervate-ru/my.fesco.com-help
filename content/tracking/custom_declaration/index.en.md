@@ -10,18 +10,18 @@ weight: 4
 
 When the customs declaration is generated, it will appear on the detailed pade of the request in your account. <br/> To access, download and copy the information in the declaration, press “Open”. 
 
-{{< img name="images/1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+{{< img name="images/en_1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:80%">}}
 <br/>
-Then press “download PDF”.
+Then press “Create PDF download”.
 
-{{< img name="images/2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+{{< img name="images/en_2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:80%">}}
 
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/tracking/where_container/" target="_blank" text="Where is my container?">}}
-    {{<seeAlsoItem link="/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
-    {{<seeAlsoItem link="/tracking/customs_documents/" text="Customs documents">}}
-    {{<seeAlsoItem link="/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
-    {{<seeAlsoItem link="/tracking/railway_bills/" text="Railway B/Ls">}}    
+    {{<seeAlsoItem link="/en/tracking/where_container/" target="_blank" text="Where is my container?">}}
+    {{<seeAlsoItem link="/en/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
+    {{<seeAlsoItem link="/en/tracking/customs_documents/" text="Customs documents">}}
+    {{<seeAlsoItem link="/en/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
+    {{<seeAlsoItem link="/en/tracking/railway_bills/" text="Railway B/Ls">}}    
 {{</seeAlso>}}

@@ -1,6 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Frequently Asked Questions"
+title: "FAQ"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc

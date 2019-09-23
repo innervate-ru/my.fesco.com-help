@@ -22,9 +22,8 @@ menuIcon: folder-open
 
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/customs_documents/download_and_send/" text="How to upload the documents">}}
-    {{<seeAlsoItem link="/customs_documents/reloading/" text="How to additionally upload documents">}}
-    {{<seeAlsoItem link="/customs_documents/delete/" text="How to dismiss the documents">}}
-    {{<seeAlsoItem link="/customs_documents/statuses/" text="Status of the documents">}}
-    {{<seeAlsoItem link="/customs_documents/history/" text="How to view the history of documents’ package">}}
+    {{<seeAlsoItem link="/en/customs_documents/download_and_send/" text="How to upload the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/reloading/" text="How to additionally upload documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/statuses/" text="Status of the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/history/" text="How to view the history of documents’ package">}}
 {{</seeAlso>}}

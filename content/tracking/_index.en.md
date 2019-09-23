@@ -9,9 +9,9 @@ weight: 3
 menuIcon: location-arrow
 ---
 
-To get the information on the shipment please go to <a href="https://my.fesco.com/requests?active" target="_blank">your requests list</a> and press open the request you need where you need to track the cargo:
+To get the information on the shipment please go to <a href="https://my.fesco.com/requests?active" target="_blank">"My orders"</a> and press open the request you need where you need to track the cargo:
 
-{{< img name="1*" style="width:82%">}}
+{{< img name="en_1*" style="width:82%">}}
 <br/>
 Information you will find on the detailed page of the request: 
 
@@ -24,11 +24,11 @@ Information you will find on the detailed page of the request:
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/tracking/where_container/" target="_blank" text="Where is my container?">}}
-    {{<seeAlsoItem link="/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
-    {{<seeAlsoItem link="/tracking/customs_documents/" text="Customs documents">}}
-    {{<seeAlsoItem link="/tracking/custom_declaration/" target="_blank" text="Customs declaration">}}
-    {{<seeAlsoItem link="/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
-    {{<seeAlsoItem link="/tracking/railway_bills/" text="Railway B/Ls">}}    
+    {{<seeAlsoItem link="/en/tracking/where_container/" target="_blank" text="Where is my container?">}}
+    {{<seeAlsoItem link="/en/tracking/customs_events/" text="Inspection, weight measuring and x-ray inspection">}}
+    {{<seeAlsoItem link="/en/tracking/customs_documents/" text="Customs documents">}}
+    {{<seeAlsoItem link="/en/tracking/custom_declaration/" target="_blank" text="Customs declaration">}}
+    {{<seeAlsoItem link="/en/tracking/invoices-and-acts/" text="Invoices, certificates and B/Ls ">}}
+    {{<seeAlsoItem link="/en/tracking/railway_bills/" text="Railway B/Ls">}}    
 {{</seeAlso>}}
 
