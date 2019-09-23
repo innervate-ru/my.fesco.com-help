@@ -18,7 +18,7 @@
       <guid>https://my.fesco.com/en/access/request/</guid>
       <description>On My access you can file a request for access to different sections/menus in your account and monitor the process of getting the access.  Completing access request form: а) Fill in the form: 
 — Find the form using the sections menu, select the legal entity from the list.
-  — Fill in the form with your details (the form may be partly filled in automatically):
+ — Fill in the form with your details (the form may be partly filled in automatically):
  “Legal entity” field  - select the legal entity from the list; “Company of FESCO Group” field  - select one of the companies of FESCO Group; “Name of the signatory” field  - enter the signatory’s full name ; “Acting upon” field  - indicate the grounds; “Name of the party authorized by the Client to work with documents”  – enter the full name of the authorized party; “E-mail address of the party authorized by the Client to work with documents”  – enter an e-mail address of the authorized party; “Mobile phone of the party authorized by the Client to work with documents”  – enter a mobile phone of the authorized party  — Tick the box “I agree to the processing of my personal data”</description>
     </item>
     
@@ -28,10 +28,10 @@
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/access/new_client/</guid>
-      <description>— Go to “Add new legal entity” subsection;  
-— Enter INN of the legal entity;  
+      <description>— Go to “Add new legal entity” subsection; 
+— Enter INN of the legal entity; 
 — Press “Find”. If there are a few companies with the same INN in the system, you will get a service notification. After this enter registration reason code (KPP) and press “find”.
- After completing the form successfully, the company will be added to your list as temporary, and you will be able to send an access request for any on the companies of FESCO Group.</description>
+After completing the form successfully, the company will be added to your list as temporary, and you will be able to send an access request for any on the companies of FESCO Group.</description>
     </item>
     
   </channel>

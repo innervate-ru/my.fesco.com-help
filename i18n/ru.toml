@@ -1,0 +1,26 @@
+[search]
+other = "Поиск"
+
+[lastUpdateDate]
+other = "Дата последнего обновления:"
+
+[wasTheArticleHelpful]
+other = "Были ли эта статья полезной?"
+
+[yes]
+other = "Дв"
+
+[no]
+other = "Нет"
+
+[countsThisArticleHelpful_p1]
+other = "Пользователи, считающие этот материал полезным"
+[countsThisArticleHelpful_p2]
+other = "из"
+[countsThisArticleHelpful_isThereAnyQuestions]
+other = "Еще есть вопросы?"
+[countsThisArticleHelpful_sendRequest]
+other = "Отправить запрос"
+
+[seeAlso]
+other = "Смотрите также"

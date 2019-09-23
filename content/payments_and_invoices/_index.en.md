@@ -7,7 +7,7 @@ type: help_doc
 layout: help_doc
 weight: 8
 menuIcon: unlink
-redirect: "/payments_and_invoices/rules_of_binding/"
+redirect: "/en/payments_and_invoices/rules_of_binding/"
 ---
 
 

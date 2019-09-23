@@ -1,0 +1,26 @@
+[search]
+other = "Search"
+
+[lastUpdateDate]
+other = "Last update date:"
+
+[wasTheArticleHelpful]
+other = "Was this article helpful?"
+
+[yes]
+other = "Yes"
+
+[no]
+other = "No"
+
+[countsThisArticleHelpful_p1]
+other = "Users that counts this article helpful"
+[countsThisArticleHelpful_p2]
+other = "of"
+[countsThisArticleHelpful_isThereAnyQuestions]
+other = "Is there any questions?"
+[countsThisArticleHelpful_sendRequest]
+other = "Send a request"
+
+[seeAlso]
+other = "See also"

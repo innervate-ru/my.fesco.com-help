@@ -1,2 +1,4 @@
 - id: search
   translation: "Search"
+- id: lastUpdateDate
+  translation: "Last update date:"

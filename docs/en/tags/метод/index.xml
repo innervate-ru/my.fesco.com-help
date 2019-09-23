@@ -17,7 +17,7 @@
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/rouble-rouble/</guid>
       <description>Instructions on closing ruble invoices with ruble payments If the issued invoice is in rubles and the payment was made in rubles:
- In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).    
+ In the left part of the window unbound payments are displayed. Choose one of the payments and tick the box next to it.  Currency must be ruble (RUR).  
  payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
@@ -28,7 +28,7 @@
       
       <guid>https://my.fesco.com/en/elar/act_requests/</guid>
       <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
-  б) Fill in the form in “information” block. 
+ б) Fill in the form in “information” block. 
  Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
     </item>
     
@@ -39,9 +39,9 @@
       
       <guid>https://my.fesco.com/en/new_order/online_order/from_new_order/</guid>
       <description>а) Go to “my requests” page and press the orange button “new request”;  б) Choose the type of the request – New request;
-  
+
 в) Select the initial entries:
- Planned date of shipment, Route, Container type, Container’s owner;    
+ Planned date of shipment, Route, Container type, Container’s owner;  
 г) Choose the Rate, for selecting the rate press “select price”; you can filter the price rates by the Destination, Customs clearance location or Currency; then press “select the rate”</description>
     </item>
     
@@ -54,8 +54,8 @@
       <description>To make a request:   Through
 “new request” form    From the
 Calculator menu    From a previous
-request (copy)    From template   
-  Online application/request doesn’t need to be copied in written form. Online request is an official request for transportation.</description>
+request (To copy)    From template   
+ Online application/request doesn’t need to be copied in written form. Online request is an official request for transportation.</description>
     </item>
     
     <item>
@@ -74,8 +74,8 @@ FAQ</description>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/all_orders/templates_and_drafts/</guid>
-      <description>What is a draft?  Draft is a saved but not submitted request.  To save your draft press “save” instead of “submit the request” on new request page.
- What is a template?  Template is a request market with “template” tag. You can create a new request using a template.  Templates are connected to companies, not to users, therefore, one company’s users see the same templates.</description>
+      <description>What is a draft? Draft is a saved but not submitted request. To save your draft press “save” instead of “submit the request” on new request page.
+What is a template? Template is a request market with “template” tag. You can create a new request using a template. Templates are connected to companies, not to users, therefore, one company’s users see the same templates.</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@ FAQ</description>
       
       <guid>https://my.fesco.com/en/customs_documents/download_and_send/</guid>
       <description>How to upload and send the documents: а) go to ”Customs Declaration”;  б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
-    в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
+ в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ FAQ</description>
       <guid>https://my.fesco.com/en/tracking/where_container/</guid>
       <description>Step 1. To find out where your container is:
 — go to the tracking page;
-   — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
+ — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
 
 Step 2. To find out more information about the shipment, go to a detailed page in your account.
 In “container’s voyage” block you can see all the information regarding the shipment’s activities and location.</description>
@@ -110,7 +110,7 @@ In “container’s voyage” block you can see all the information regarding th
       <guid>https://my.fesco.com/en/access/request/</guid>
       <description>On My access you can file a request for access to different sections/menus in your account and monitor the process of getting the access.  Completing access request form: а) Fill in the form: 
 — Find the form using the sections menu, select the legal entity from the list.
-  — Fill in the form with your details (the form may be partly filled in automatically):
+ — Fill in the form with your details (the form may be partly filled in automatically):
  “Legal entity” field  - select the legal entity from the list; “Company of FESCO Group” field  - select one of the companies of FESCO Group; “Name of the signatory” field  - enter the signatory’s full name ; “Acting upon” field  - indicate the grounds; “Name of the party authorized by the Client to work with documents”  – enter the full name of the authorized party; “E-mail address of the party authorized by the Client to work with documents”  – enter an e-mail address of the authorized party; “Mobile phone of the party authorized by the Client to work with documents”  – enter a mobile phone of the authorized party  — Tick the box “I agree to the processing of my personal data”</description>
     </item>
     
@@ -130,7 +130,7 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/payments_and_invoices/instruction_of_binding/usd-rouble/</guid>
       <description>Instruction for closing foreign currency invoices with payments in rubles If the invoice was issued in foreign currency, and you made payments in rubles:
- Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)    
+ Unbound invoices are displayed in the left part of the window. Select one of the invoices and tick the box next to it.  The currency must be rubles (RUB)  
  payment number – number of the payment order contract reference number – number used for payments payment date – date of carrying out banking operation payment amount – total amount of the payment unbound balance – amount to be paid payment currency – currency used to make the payment     In the bottom of the window you can see the details of the payment you selected:</description>
     </item>
     
@@ -141,8 +141,8 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/customs_events/</guid>
       <description>On the detailed page of the request in “Customs procedures” block you can find the information on the following customs procedures:
- inspection; measuring weight; x-ray inspection system.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Customs documents   Customs declaration   Invoices, certificates and B/Ls    Railway B/Ls    </description>
+ inspection; measuring weight; x-ray inspection system.  Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Customs documentsCustoms declarationInvoices, certificates and B/Ls Railway B/Ls  </description>
     </item>
     
     <item>
@@ -151,8 +151,8 @@ In “container’s voyage” block you can see all the information regarding th
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/all_orders/tagging/</guid>
-      <description>Tags allow you to find a requst among other requests.  To tag or to create a new tag:  Go to “My requests”  Change a layout to Table Press “add” in the “tags” field Enter a new tag name and press Enter, or choose a tag from the list.      Tag is set!  
-To find a request by the tag:  Go to “My requests”  Select tag’s name in the list Press “Search”      The requests were filtered by the tag.</description>
+      <description>Tags allow you to find a requst among other requests. To tag or to create a new tag:  Go to “My requests”  Change a layout to Table Press “add” in the “tags” field Enter a new tag name and press Enter, or choose a tag from the list.    Tag is set!  
+To find a request by the tag:  Go to “My requests”  Select tag’s name in the list Press “Search”    The requests were filtered by the tag.</description>
     </item>
     
     <item>
@@ -162,8 +162,8 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       
       <guid>https://my.fesco.com/en/elar/duplicated_documents_requests/</guid>
       <description>а) **Go to ** Requests for duplicate documents  and press “new request” or an orange plus sign.
-  б) Fill in the form in “information” block: 
- Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).    в) Enter your contact information::</description>
+ б) Fill in the form in “information” block: 
+ Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).   в) Enter your contact information::</description>
     </item>
     
     <item>
@@ -174,9 +174,9 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       <guid>https://my.fesco.com/en/new_order/online_order/from_calculator/</guid>
       <description>а) Go to “Calculator”;  б) Select initial entries:
  planned date of shipment, route, container type, container’s owner,  and press “calculate the price”;
-  
-в) select the rate and press “submit the request”    You can filter the rates by Destination, Customs clearance place and Currency 
-  г) fill in the fields; fields marked with * are mandatory; and press “submit the request”.</description>
+
+в) select the rate and press “submit the request”   You can filter the rates by Destination, Customs clearance place and Currency
+ г) fill in the fields; fields marked with * are mandatory; and press “submit the request”.</description>
     </item>
     
     <item>
@@ -185,7 +185,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/fields/</guid>
-      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
+      <description>“ownership of the container” FieldSelect “COC” if the container belongs to FESCOSelect “SOC” if the container belongs to your or other entity.“Legal entity” FieldSelect one of the agreements to make a shipment request for it.“Cargo name on B/L” FieldEnter actual name of the cargoFor example, “Construction materials” or “Metal furniture”.ETCNG - GNG CodesHarmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
     </item>
     
     <item>
@@ -195,7 +195,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       
       <guid>https://my.fesco.com/en/customs_documents/reloading/</guid>
       <description>To additionally upload and submit documents а) Go to ”Customs Declaration” and find your request;  б) Press “Additional documents upload”  The documents will be dismissed. After that you will be able to upload and submit the documents again.
-   Additional uploading isn’t available for the documents in the following statuses:.  — container sent  — transit procedure finished  — documents were submitted to the Federal Customs Service of Russia</description>
+ Additional uploading isn’t available for the documents in the following statuses:.  — container sent  — transit procedure finished  — documents were submitted to the Federal Customs Service of Russia</description>
     </item>
     
     <item>
@@ -214,7 +214,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       
       <guid>https://my.fesco.com/en/tracking/</guid>
       <description>To get the information on the shipment please go to your requests list and press open the request you need where you need to track the cargo:
-   Information you will find on the detailed page of the request:
+ Information you will find on the detailed page of the request:
  Container’s location and performed operations (for example, receiving TLX-RELEASE from the shipper); Information on performed inspections, weight measuring and x-ray inspection; Customs documents and declaration; Invoices, certificates and B/Ls ; Railway B/Ls.</description>
     </item>
     
@@ -224,8 +224,8 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/templates/</guid>
-      <description>Use this feature for your repeating requests with the same details.  Шаг 1. To make an old request as a template:
- go to “list ot requests” change to Tablet layout press “add” make a tag “template” and press Enter or select the tag from the list.    
+      <description>Use this feature for your repeating requests with the same details. Шаг 1. To make an old request as a template:
+ go to “list ot requests” change to Tablet layout press “add” make a tag “template” and press Enter or select the tag from the list.  
 Шаг 2. To create a request based on a template:
  press “new request” button and select “from the template” find the request and press “submit again” fill in the fields, fields marked with * are mandatory; and press “submit the request”.</description>
     </item>
@@ -251,7 +251,7 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       
       <guid>https://my.fesco.com/en/tracking/customs_documents/</guid>
       <description>On the detailed page of your request in “customs declaring procedure” block you can upload customs documents.
- Обязательные документы: 
+ Обязательные документы:
  Invoice (proforma invoice); Packing list; Bill of lading; Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement on the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).</description>
     </item>
     
@@ -261,8 +261,8 @@ To find a request by the tag:  Go to “My requests”  Select tag’s name in t
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/online_order/copy/</guid>
-      <description>Use this feature if you want to make a new request using the previously entered info.  а) Go to “List of requests”;  б) Find a previous request and press “repeat”;
-  
+      <description>Use this feature if you want to make a new request using the previously entered info. а) Go to “List of requests”;  б) Find a previous request and press “repeat”;
+
 в) Fill in the fields; fields marked with * are mandatory; and press “submit the request”.
 After sending the request you will get a notification with all the request details on your email.  You can continue the correspondence by sending a REPLY to the message.</description>
     </item>
@@ -294,10 +294,10 @@ Example of a letter for partially closing</description>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/access/new_client/</guid>
-      <description>— Go to “Add new legal entity” subsection;  
-— Enter INN of the legal entity;  
+      <description>— Go to “Add new legal entity” subsection; 
+— Enter INN of the legal entity; 
 — Press “Find”. If there are a few companies with the same INN in the system, you will get a service notification. After this enter registration reason code (KPP) and press “find”.
- After completing the form successfully, the company will be added to your list as temporary, and you will be able to send an access request for any on the companies of FESCO Group.</description>
+After completing the form successfully, the company will be added to your list as temporary, and you will be able to send an access request for any on the companies of FESCO Group.</description>
     </item>
     
     <item>
@@ -319,8 +319,8 @@ Error cause: probably you don’t have an additional agreement for working with 
       
       <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
       <description>When the customs declaration is generated, it will appear on the detailed pade of the request in your account.  To access, download and copy the information in the declaration, press “Open”.
-   Then press “download PDF”.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также</description>
+ Then press “download PDF”.
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также</description>
     </item>
     
     <item>
@@ -329,8 +329,8 @@ Error cause: probably you don’t have an additional agreement for working with 
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/all_orders/popular_questions/</guid>
-      <description>How to restore a cancelled request?  Find the request, press “submit again”, then the request will be open for editing.
-  When is the request moved to the archive? 
+      <description>How to restore a cancelled request? Find the request, press “submit again”, then the request will be open for editing.
+ When is the request moved to the archive?
 The request is moved to the archive in two cases:
  shipment completion, deleting the request in the account.  After the shipment completion the request is moved to the archive not immediately but when the closing documents are generated on this shipment.</description>
     </item>
@@ -361,11 +361,11 @@ List of required documents for Clearance procedure for transit:  Invoice (profor
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/payments_and_invoices/closed_payment_orders/</guid>
-      <description>View what invoices were used to cover the receipt.  In “unbound payments” block (on the left) select the payment for detalization:  
+      <description>View what invoices were used to cover the receipt.  In “unbound payments” block (on the left) select the payment for detalization: 
  Go to “bound payments” (on the right):
-    
+  
 Then you will see a table with all the information on the right:
- Date, amount, invoice number ;  Date, amount, payment number;  Contract number   Use horizontal scroll to view the information in the table.</description>
+ Date, amount, invoice number ;  Date, amount, payment number;  Contract number  Use horizontal scroll to view the information in the table.</description>
     </item>
     
     <item>
@@ -375,8 +375,8 @@ Then you will see a table with all the information on the right:
       
       <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
       <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Railway B/Ls    </description>
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationRailway B/Ls  </description>
     </item>
     
     <item>
@@ -386,8 +386,8 @@ Then you will see a table with all the information on the right:
       
       <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
       <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationInvoices, certificates and B/Ls  </description>
     </item>
     
     <item>
@@ -416,7 +416,7 @@ To download a single document, press the icon in column “Document (1)”.  To 
       
       <guid>https://my.fesco.com/en/schedule/</guid>
       <description>To see the timetable:
- Go to “schedule of the services” ; Enter necessary information; Press “find a schedule”.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     </description>
+ Go to “schedule of the services” ; Enter necessary information; Press “find a schedule”.  Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос </description>
     </item>
     
     <item>
@@ -437,9 +437,9 @@ INN (taxpayer identification number) number and e-mail entered during the regist
       <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
       <description>To download the documents in archive file:
 а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
-  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
-  The archive file will be downloaded to your computer.
-Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
+ г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+ The archive file will be downloaded to your computer.
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы?</description>
     </item>
     
     <item>
@@ -448,7 +448,7 @@ INN (taxpayer identification number) number and e-mail entered during the regist
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/registration/questions/</guid>
-      <description>If you didn&amp;#39;t receive a password on your e-mail   Check spam and low-priority folders. Message us in the chat on our web-site.   What is a full and limited access to the account?  After registration you will get a limited access to your account.  You can use the following functions:    Public access Limited access Full access     The calculator of shipment price         Filing requests for quotations         Filing requests for transportations         Saving drafts order         Copy orders         Container tracking and shipment status         Downloading and checking status of the customs documents         Entering the data on VGM         Contacts and bills         Chat with a manager</description>
+      <description>If you didn&amp;#39;t receive a password on your e-mail   Check spam and low-priority folders. Message us in the chat on our web-site.  What is a full and limited access to the account? After registration you will get a limited access to your account.  You can use the following functions: Public accessLimited accessFull accessThe calculator of shipment priceFiling requests for quotationsFiling requests for transportationsSaving drafts orderCopy ordersContainer tracking and shipment statusDownloading and checking status of the customs documentsEntering the data on VGMContacts and billsChat with a manager</description>
     </item>
     
     <item>
@@ -457,8 +457,8 @@ INN (taxpayer identification number) number and e-mail entered during the regist
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/questions/</guid>
-      <description>How to add one more cargo to the request?  In GNG CODE field enter the code for collected cargoes: 99020000 In “additional requirements” field indicate detailed information for the cargoes.    Where is the information about door delivery? 
-In “additional requirements” field.    Who can I indicate as a consignee at the destination station? 
+      <description>How to add one more cargo to the request? In GNG CODE field enter the code for collected cargoes: 99020000 In “additional requirements” field indicate detailed information for the cargoes.   Where is the information about door delivery?
+In “additional requirements” field.   Who can I indicate as a consignee at the destination station?
 In case of FESCO removal, &amp;ldquo;FIT agent&amp;rdquo; is indicated.</description>
     </item>
     

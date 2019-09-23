@@ -18,7 +18,7 @@
       <guid>https://my.fesco.com/en/tracking/where_container/</guid>
       <description>Step 1. To find out where your container is:
 — go to the tracking page;
-   — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
+ — вenter the container’s number or consignment note’s number in the search field (you can enter up to 4 numbers); — press “track the shipment”.
 
 Step 2. To find out more information about the shipment, go to a detailed page in your account.
 In “container’s voyage” block you can see all the information regarding the shipment’s activities and location.</description>
@@ -31,8 +31,8 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/customs_events/</guid>
       <description>On the detailed page of the request in “Customs procedures” block you can find the information on the following customs procedures:
- inspection; measuring weight; x-ray inspection system.   Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Customs documents   Customs declaration   Invoices, certificates and B/Ls    Railway B/Ls    </description>
+ inspection; measuring weight; x-ray inspection system.  Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Customs documentsCustoms declarationInvoices, certificates and B/Ls Railway B/Ls  </description>
     </item>
     
     <item>
@@ -42,8 +42,8 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/custom_declaration/</guid>
       <description>When the customs declaration is generated, it will appear on the detailed pade of the request in your account.  To access, download and copy the information in the declaration, press “Open”.
-   Then press “download PDF”.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также</description>
+ Then press “download PDF”.
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также</description>
     </item>
     
     <item>
@@ -53,8 +53,8 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/invoices-and-acts/</guid>
       <description>On the detailed page of the request in “invoices/certificates on the request” and “related documents” blocks you can find and download invoices, certificates and B/Ls on your request.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Railway B/Ls    </description>
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationRailway B/Ls  </description>
     </item>
     
     <item>
@@ -64,8 +64,8 @@ In “container’s voyage” block you can see all the information regarding th
       
       <guid>https://my.fesco.com/en/tracking/railway_bills/</guid>
       <description>On the detailed page of your request you can download the consignment notes in “Railway BLs” menu/block.
- Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы? Отправить запрос     Смотрите также
- Where is my container?   Inspection, weight measuring and x-ray inspection   Customs documents   Customs declaration   Invoices, certificates and B/Ls     </description>
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы? Отправить запрос Смотрите также
+Where is my container?Inspection, weight measuring and x-ray inspectionCustoms documentsCustoms declarationInvoices, certificates and B/Ls  </description>
     </item>
     
   </channel>

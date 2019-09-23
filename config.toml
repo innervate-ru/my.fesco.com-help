@@ -1,23 +1,25 @@
-baseURL = "https://my.fesco.com"
-#languageCode = "en-us"
+  baseURL = "https://my.fesco.com"
+# languageCode = "en-us"
 title = "Fesco Help"
 theme = "pixxett"
 MetaDataFormat = "toml"
 Paginate = 10
 DefaultContentLanguage = "ru"
-#defaultContentLanguageInSubdir= true
+# defaultContentLanguageInSubdir= true
 
 [taxonomies]
-    tag = "tags"
+  tag = "tags"
 
 [languages]
-[languages.ru]
-weight = 1
-languageName = "Russian"
+  [languages.ru]
+    # baseUrl = "https://my.fesco.com/help"
+    weight = 1
+    languageName = "Russian"
 
-[languages.en]
-weight = 0
-languageName = "English"
+  [languages.en]
+    # baseUrl = "https://my.fesco.com/help/en"
+    weight = 0
+    languageName = "English"
 
 
 

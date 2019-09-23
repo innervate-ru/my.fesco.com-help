@@ -7,7 +7,7 @@ type: help_doc
 layout: help_doc
 weight: 1
 menuIcon: user
-redirect: "/en/registration/nstruction/"
+redirect: "/en/registration/instruction/"
 ---
 
 [How to register an account](/en/registration/instruction/)

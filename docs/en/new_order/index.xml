@@ -16,7 +16,7 @@
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/new_order/fields/</guid>
-      <description>“ownership of the container” Field   Select “COC” if the container belongs to FESCO Select “SOC” if the container belongs to your or other entity.     “Legal entity” Field   Select one of the agreements to make a shipment request for it.    “Cargo name on B/L” Field   Enter actual name of the cargo For example, “Construction materials” or “Metal furniture”.    ETCNG - GNG Codes   Harmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
+      <description>“ownership of the container” FieldSelect “COC” if the container belongs to FESCOSelect “SOC” if the container belongs to your or other entity.“Legal entity” FieldSelect one of the agreements to make a shipment request for it.“Cargo name on B/L” FieldEnter actual name of the cargoFor example, “Construction materials” or “Metal furniture”.ETCNG - GNG CodesHarmonized nomenclature of cargoes (GNG) CODE– usually corresponds to the first 8 numbers of Goods Nomenclature for Foreign Economic Activities (GNFEA) CODE.</description>
     </item>
     
   </channel>

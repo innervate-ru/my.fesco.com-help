@@ -29,7 +29,7 @@ weight: 1
       <div>
        <img src="/img/icon/ico-from-copy.png" alt="Иконка">
         <a href="http://my.fesco.com/help/new_order/online_order/copy/">
-          From a previous<br>request (copy)
+          From a previous<br>request (To copy)
         </a>
       </div>
       <div>

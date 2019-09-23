@@ -17,7 +17,7 @@
       
       <guid>https://my.fesco.com/en/elar/act_requests/</guid>
       <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
-  б) Fill in the form in “information” block. 
+ б) Fill in the form in “information” block. 
  Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
     </item>
     
@@ -28,8 +28,8 @@
       
       <guid>https://my.fesco.com/en/elar/duplicated_documents_requests/</guid>
       <description>а) **Go to ** Requests for duplicate documents  and press “new request” or an orange plus sign.
-  б) Fill in the form in “information” block: 
- Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).    в) Enter your contact information::</description>
+ б) Fill in the form in “information” block: 
+ Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).   в) Enter your contact information::</description>
     </item>
     
     <item>
@@ -40,9 +40,9 @@
       <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
       <description>To download the documents in archive file:
 а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
-  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
-  The archive file will be downloaded to your computer.
-Были ли эта статья полезной? Да  Нет    Пользователи, считающие этот материал полезным  из  Еще есть вопросы?</description>
+ г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+ The archive file will be downloaded to your computer.
+Были ли эта статья полезной?ДаНетПользователи, считающие этот материал полезным  из Еще есть вопросы?</description>
     </item>
     
   </channel>

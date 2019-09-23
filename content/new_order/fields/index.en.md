@@ -1,7 +1,6 @@
 ---
 date: "2018-10-31"
-title: "Как заполнять поля заявки"
-titleEn: "How to fill in the fields in the request"
+title: "How to fill in the fields in the request"
 tags: ["api", "метод"]
 Description: ""
 type: help_doc
