@@ -29,8 +29,6 @@ weight: 2
 
 {{<seeAlso>}}
     {{<seeAlsoItem link="/customs_documents/download_and_send/" text="Как загрузить документы">}}
-    {{<seeAlsoItem link="/customs_documents/delete/" text="Как отозвать документы">}}
-    {{<seeAlsoItem link="/customs_documents/statuses/" text="Статусы документов">}}
     {{<seeAlsoItem link="/customs_documents/history/" text="Как посмотреть историю пакета документов">}}
 {{</seeAlso>}}
 
