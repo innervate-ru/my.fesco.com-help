@@ -10,17 +10,20 @@ weight: 10
 
 To download the documents in archive file:
 
-а) Go to <a href="https://my.fesco.com/archive" target="_blank">the documents list in Electronic archive menu</a>; <br/>
-б) ВTick the documents needed; <br/>
-в) Press “download archive”; <br/>
+a) Go to <a href="https://my.fesco.com/archive" target="_blank">the documents list in Electronic archive menu</a>; <br/>
+b) Tick the documents needed; <br/>
+c) Press “Download archive”; <br/>
 
-{{< img name="images/2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
+{{< img name="images/en_2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
 
 <br/>
-г) Wait until the download status changes from “processing” to “finished” and press “open”; <br/>
-д) Press “Download”; <br/>
+d) Wait until the download status changes from “In process” to “Done” and press “Open”; <br/>
+{{< img name="images/en_3*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
 
-{{< gif name="images/screencast3*" class="img-fluid" style="width:90%">}}
+<br/>
+e) Press “Download”; <br/>
+
+{{< gif name="images/en_screencast3*" class="img-fluid" style="width:90%">}}
 
 <br/>
 The archive file will be downloaded to your computer.
@@ -30,6 +33,6 @@ The archive file will be downloaded to your computer.
 
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/elar/duplicated_documents_requests/" text="How to make a request for copies of the documents">}}
-    {{<seeAlsoItem link="/elar/act_requests/" text="How to make a request for reconciliation reports">}}
+    {{<seeAlsoItem link="/en/elar/duplicated_documents_requests/" text="How to make a request for copies of the documents">}}
+    {{<seeAlsoItem link="/en/elar/act_requests/" text="How to make a request for reconciliation reports">}}
 {{</seeAlso>}}

@@ -14,7 +14,7 @@ weight: 2
 б) Press “Additional documents upload” <br/> 
 The documents will be dismissed. After that you will be able to upload and submit the documents again. 
 
-{{< img name="1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+{{< img name="en_1*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
 <br/>
 <div class="pixxett-alert pixxett-alert-icon alert11-light">
   <i class="fa fa-exclamation-circle"></i><b>Additional uploading isn’t available for the documents in the following statuses:</b>. <br/> 
@@ -27,9 +27,8 @@ The documents will be dismissed. After that you will be able to upload and submi
 {{<isHelpful>}}
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/customs_documents/download_and_send/" text="How to upload the documents">}}
-    {{<seeAlsoItem link="/customs_documents/delete/" text="How to dismiss the documents">}}
-    {{<seeAlsoItem link="/customs_documents/statuses/" text="Status of the documents">}}
-    {{<seeAlsoItem link="/customs_documents/history/" text="How to view the history of documents’ package">}}
+    {{<seeAlsoItem link="/en/customs_documents/download_and_send/" text="How to upload the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/statuses/" text="Status of the documents">}}
+    {{<seeAlsoItem link="/en/customs_documents/history/" text="How to view the history of documents’ package">}}
 {{</seeAlso>}}
 

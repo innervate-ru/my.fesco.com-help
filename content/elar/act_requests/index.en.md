@@ -8,12 +8,12 @@ layout: help_doc
 weight: 1
 ---
 
-а) **Go to ** <a href="https://my.fesco.com/archive/reconciliation-report-requests" target="_blank">“reconciliation report request”  </a> and press “new request” or orange plus sign.
+a) **Go to** <a href="https://my.fesco.com/archive/reconciliation-report-requests" target="_blank">“Reconciliation report request”  </a> and press “New pachage of documents” or orange plus sign.
 
-{{< img name="images/124*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
+{{< img name="images/en_124*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:90%">}} 
 
 <br/>
-б) **Fill in the form** in “information” block.
+b) **Fill in the form** in “information” block.
 <br/>
 
 * Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically;
@@ -25,7 +25,7 @@ weight: 1
 
 {{<alert icon="info-circle" color="alert1-light" text="If a preliminary reconciliation report is necessary (documents exchange via email without sending the original documents) – please indicate it in the comment section." close="false">}}
 <br/>
-в) **Enter your contact information and press “submit the request“: <br/>
+c) **Enter your contact information** and press “Send request“: <br/>
 
 
 * Full name (Last, first and middle names);
@@ -36,11 +36,11 @@ weight: 1
 * Type of original documents delivery. <br/>
 *Contact information is needed for prompt problem solving during the reconciliation reports being reviewed by the accountants.*
 
-{{< gif name="images/screencast-min*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:70%">}}
+{{< img name="images/en_2*" title="Подпись к фото которая попадает в тег alt" class="img-fluid" style="width:80%">}} 
 <br/>
 
 <div class="pixxett-alert pixxett-alert-icon alert11-light">
-  <i class="fa fa-clock-o"></i>Average time of processing a request for closed periods is  — <b>3 working days/b>. <br/> Reconciliation reports on business period (previous month) can be provided not earlier than the 7th day of the following working month.
+  <i class="fa fa-clock-o"></i>Average time of processing a request for closed periods is  — <b>3 working days</b>. <br/> Reconciliation reports on business period (previous month) can be provided not earlier than the 7th day of the following working month.
 </div>
 
 
@@ -50,6 +50,6 @@ weight: 1
 
 
 {{<seeAlso>}}
-    {{<seeAlsoItem link="/elar/duplicated_documents_requests/" text="How to make a request for copies of the documents">}}
-    {{<seeAlsoItem link="/elar/archive_zip/" text="How to download the documents in the archive file">}}
+    {{<seeAlsoItem link="/en/elar/duplicated_documents_requests/" text="How to make a request for copies of the documents">}}
+    {{<seeAlsoItem link="/en/elar/archive_zip/" text="How to download the documents in the archive file">}}
 {{</seeAlso>}}
