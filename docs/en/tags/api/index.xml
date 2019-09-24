@@ -28,8 +28,8 @@
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/elar/act_requests/</guid>
-      <description>а) **Go to ** “reconciliation report request”  and press “new request” or orange plus sign.
-  б) Fill in the form in “information” block. 
+      <description>a) Go to “Reconciliation report request”  and press “New pachage of documents” or orange plus sign.
+  b) Fill in the form in “information” block. 
  Enter your name (INN – identification tax number – and the name of the company – FIT LLC – will be entered automatically; Tick the numbers of contracts of which you need the reconciliation reports ; Indicate the period of reconciliation report; Add a comment (optional).</description>
     </item>
     
@@ -86,8 +86,8 @@ After submitting a request using the template or draft, rate and availability of
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/customs_documents/download_and_send/</guid>
-      <description>How to upload and send the documents: а) go to ”Customs Declaration”;  б) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
-    в) tap on your ID to go to your request page;  г) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
+      <description>How to upload and send the documents: a) go to ”Customs Declaration”;  b) find the container (in the filter on the left you can type the container’ number or B/L) and press “search”; 
+    c) tap on your ID to go to your request page;  d) press “upload the documents” and select one of the uploading types:  — submit the documents in one package (in archive by one file)  — submit the document separately (separately send each document)</description>
     </item>
     
     <item>
@@ -163,9 +163,9 @@ To find a request by the tag:  Go to “My orders”  Select tag’s name in the
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://my.fesco.com/en/elar/duplicated_documents_requests/</guid>
-      <description>а) **Go to ** Requests for duplicate documents  and press “new request” or an orange plus sign.
-  б) Fill in the form in “information” block: 
- Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).    в) Enter your contact information::</description>
+      <description>a) Go to Requests for duplicate documents  and press “new request” or an orange plus sign.
+  b) Fill in the form in “information” block: 
+ Type in denomination (INN – identification tax number – and the name of the company FIT LLC will be entered automatically_) Press “select”, tick the documents that you need copies of (use search or filter); Leave a comment (optional).    c) Enter your contact information::</description>
     </item>
     
     <item>
@@ -345,7 +345,7 @@ The request is moved to the archive in two cases:
       
       <guid>https://my.fesco.com/en/customs_documents/statuses/</guid>
       <description>Statuses of the customs clearance documents can be the following: 
- Collecting the documents — the request is ready for collecting the documents;  Sent to the broker  — the documents were sent to the broker; Received by broker  — the documents were received by the broker; Checked by broker  — the documents were checked by the broker; Dismissed for editing  — the documents were dismissed by the clients for editing; Submitted to the Federal Customs Service of Russia /b&amp;gt; — пthe documents were submitted to the Federal Customs Service of Russia; Clearance procedure for transit is performed  — the transit was performed; the documents were assigned a transit declaration number.</description>
+ Collecting the documents — the request is ready for collecting the documents;  Sent to the broker  — the documents were sent to the broker; Received by broker  — the documents were received by the broker; Checked by broker  — the documents were checked by the broker; Dismissed for editing  — the documents were dismissed by the clients for editing; Submitted to the Federal Customs Service of Russia  — the documents were submitted to the Federal Customs Service of Russia; Clearance procedure for transit is performed  — the transit was performed; the documents were assigned a transit declaration number.</description>
     </item>
     
     <item>
@@ -400,7 +400,7 @@ Then you will see a table with all the information on the right:
       
       <guid>https://my.fesco.com/en/elar/</guid>
       <description>In this menu you can find all the closing documents of your shipments, download them in archive, and send requests for reconciliation reports and copies of the documents.  Documents list: To see the closing documents on your shipments, go to Electronic archive .
-To download a single document, press the icon in column “Document (1)”.  To download all the documents on your shipment, press the icon “download documents’ package” (2).</description>
+To download a single document, press the icon in column “Document (1)”.  To download all the documents on your shipment, press the icon “Download packet” (2).</description>
     </item>
     
     <item>
@@ -439,8 +439,8 @@ INN (taxpayer identification number) number and e-mail entered during the regist
       
       <guid>https://my.fesco.com/en/elar/archive_zip/</guid>
       <description>To download the documents in archive file:
-а) Go to the documents list in Electronic archive menu;  б) ВTick the documents needed;  в) Press “download archive”; 
-  г) Wait until the download status changes from “processing” to “finished” and press “open”;  д) Press “Download”; 
+a) Go to the documents list in Electronic archive menu;  b) Tick the documents needed;  c) Press “Download archive”; 
+  d) Wait until the download status changes from “In process” to “Done” and press “Open”;    e) Press “Download”; 
   The archive file will be downloaded to your computer.
 Was this article helpful? Yes  No    Users that counts this article helpful  of  Is there any questions?</description>
     </item>
