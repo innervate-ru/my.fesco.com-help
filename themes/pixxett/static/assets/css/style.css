@@ -775,7 +775,7 @@ input, select {
 
 .searchform {
     width: 40vw;
-    margin: 0 20px;
+    margin: 0 0 0 20px;
     float: left;
     padding-top: 14px;
     position: relative;
@@ -3293,7 +3293,7 @@ tr.group, tr.group:hover {
 }
 
 .personal_cabinet-header {
-  margin: 0 40px 0 20px;
+  margin: 0px;
   padding-top: 17px;
 }
 
@@ -3423,4 +3423,45 @@ tr.group, tr.group:hover {
     .personal_cabinet__block:nth-child(2n+1) {
       padding-left: 0;
     }
+}
+
+.personal_cabinet-header.lang_switcher {
+    margin: 0px 17px;
+    padding-top: 18px;
+    float: right;
+}
+.personal_cabinet-header.lang_switcher .lang_switcher-icon:before {
+    content: "ru";
+    speak: none;
+    width: 22px;
+    height: 22px;
+    background-color: #F29E41;
+    color: #254573;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    line-height: 21px;
+    font-family: "CoreSansA", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    text-decoration: none;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: .2s background-color;
+    -o-transition: .2s background-color;
+    transition: .2s background-color;
+}
+.personal_cabinet-header.lang_switcher:hover .lang_switcher-icon:before {
+    color: #F29E41;
+    background-color: #254573;
+}
+.personal_cabinet-header.lang_switcher .lang_switcher-icon.lang_switcher-icon__ru:before {
+    content: "ru";
+}
+.personal_cabinet-header.lang_switcher .lang_switcher-icon.lang_switcher-icon__en:before {
+    content: "en";
 }
