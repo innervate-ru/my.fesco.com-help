@@ -27,18 +27,18 @@
 
     <!--<span>Lang: {{ .Site.Language.Lang }}</span>-->
 
-    <div class="personal_cabinet-header lang_switcher hidden-xs">
-        {{ if eq .Site.Language.Lang "ru" }}
+    <!--<div class="personal_cabinet-header lang_switcher hidden-xs">-->
+        <!--{{ if eq .Site.Language.Lang "ru" }}-->
+        <!--&lt;!&ndash;<a href="{{ .RelRef }}" class="personal_cabinet__block-header">&ndash;&gt;-->
+        <!--<a href="{{ relref . "." }}" class="personal_cabinet__block-header">-->
+            <!--<div class="lang_switcher-icon lang_switcher-icon__en"></div>-->
+        <!--</a>-->
+        <!--{{ else }}-->
         <!--<a href="{{ .RelRef }}" class="personal_cabinet__block-header">-->
-        <a href="{{ relref . "." }}" class="personal_cabinet__block-header">
-            <div class="lang_switcher-icon lang_switcher-icon__en"></div>
-        </a>
-        {{ else }}
-        <a href="{{ .RelRef }}" class="personal_cabinet__block-header">
-            <div class="lang_switcher-icon lang_switcher-icon__ru"></div>
-        </a>
-        {{ end }}
-    </div>
+            <!--<div class="lang_switcher-icon lang_switcher-icon__ru"></div>-->
+        <!--</a>-->
+        <!--{{ end }}-->
+    <!--</div>-->
 
     <div class="personal_cabinet-header pull-right hidden-xs">
         <a href="https://my.fesco.com/login" class="personal_cabinet__block-header">
