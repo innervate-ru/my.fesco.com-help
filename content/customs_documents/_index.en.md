@@ -18,7 +18,7 @@ menuIcon: folder-open
 * Invoice (proforma invoice)
 * Packing list
 * B/L
-* Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement son the shipment (request for the shipmnet), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).
+* Forwarding contract – a contract for international shipment (freight forwarding), including the documents confirming agreement son the shipment (request for the shipment), and expenses connected to the shipment (shipment price, forwarder’s comission, additional expenses, customs duties and fees, and other expenses starting from the moment of the signing the contract and up to the delivery).
 
 
 {{<seeAlso>}}
